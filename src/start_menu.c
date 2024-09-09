@@ -704,7 +704,7 @@ static u8 SaveDialogCB_PrintAskSaveText(void)
     RemoveStartMenuWindow();
     DestroyHelpMessageWindow(0);
     PrintSaveStats();
-    PrintSaveTextWithFollowupFunc(gText_WouldYouLikeToSaveTheGame, SaveDialogCB_AskSavePrintYesNoMenu);
+    PrintSaveTextWithFollowupFunc(gText_SavingDontTurnOffThePower, SaveDialogCB_DoSave);
     return SAVECB_RETURN_CONTINUE;
 }
 
@@ -739,7 +739,7 @@ static u8 SaveDialogCB_PrintAskOverwriteText(void)
     if (gDifferentSaveFile == TRUE)
         PrintSaveTextWithFollowupFunc(gText_DifferentGameFile, SaveDialogCB_AskReplacePreviousFilePrintYesNoMenu);
     else
-        PrintSaveTextWithFollowupFunc(gText_AlreadySaveFile_WouldLikeToOverwrite, SaveDialogCB_AskOverwritePrintYesNoMenu);
+        PrintSaveTextWithFollowupFunc(gText_SavingDontTurnOffThePower, SaveDialogCB_DoSave);
     return SAVECB_RETURN_CONTINUE;
 }
 

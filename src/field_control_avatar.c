@@ -289,7 +289,7 @@ int ProcessPlayerFieldInput(struct FieldInput *input)
         ShowStartMenu();
         return TRUE;
     }
-    if (input->pressedSelectButton && UseRegisteredKeyItemOnField() == TRUE)
+    if (input->pressedSelectButton | input->pressedRButton && UseRegisteredKeyItemOnField() == TRUE)//MODIFIED
     {
         gInputToStoreInQuestLogMaybe.pressedSelectButton = TRUE;
         return TRUE;

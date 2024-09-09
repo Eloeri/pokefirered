@@ -955,7 +955,7 @@ static void MainTask_SlotsGameLoop(u8 taskId)
         {
             SetMainTask(MainTask_NoCoinsGameOver);
         }
-        else if (JOY_NEW(DPAD_DOWN))
+        else if (JOY_HELD(DPAD_DOWN))
         {
             sSlotMachineState->bet++;
             RemoveCoins(1);
@@ -964,7 +964,7 @@ static void MainTask_SlotsGameLoop(u8 taskId)
             SetSlotMachineSetupTask(SLOTTASK_UPDATE_LINE_LIGHTS, 1);
             data[0] = 1;
         }
-        else if (JOY_NEW(R_BUTTON))
+        else if (JOY_HELD(R_BUTTON))
         {
             s32 toAdd = 3 - sSlotMachineState->bet;
             if (GetCoins() >= toAdd)
@@ -982,7 +982,7 @@ static void MainTask_SlotsGameLoop(u8 taskId)
             SetSlotMachineSetupTask(SLOTTASK_UPDATE_LINE_LIGHTS, 1);
             data[0] = 1;
         }
-        else if (JOY_NEW(A_BUTTON) && sSlotMachineState->bet != 0)
+        else if (JOY_HELD(A_BUTTON) && sSlotMachineState->bet != 0)
         {
             data[0] = 2;
         }
@@ -1015,7 +1015,7 @@ static void MainTask_SlotsGameLoop(u8 taskId)
     case 3:
         if (!IsSlotMachineSetupTaskActive(0))
         {
-            if (JOY_NEW(A_BUTTON))
+            if (JOY_HELD(A_BUTTON))
             {
                 PlaySE(SE_CONTEST_PLACE);
                 StopCurrentReel(sSlotMachineState->currentReel, sSlotMachineState->currentReel);
@@ -1065,7 +1065,7 @@ static void MainTask_NoCoinsGameOver(u8 taskId)
             data[0]++;
         break;
     case 2:
-        if (JOY_NEW(A_BUTTON | B_BUTTON | DPAD_ANY))
+        if (JOY_HELD(A_BUTTON | B_BUTTON | DPAD_ANY))
             SetMainTask(MainTask_ExitSlots);
         break;
     }

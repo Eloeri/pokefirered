@@ -74,6 +74,7 @@ void ClearBag(void);
 void ClearPCItemSlots(void);
 void TrySetObtainedItemQuestLogEvent(u16 itemId);
 bool8 AddBagItem(u16 itemId, u16 amount);
+void ItemId_GetHoldEffectParam_Script();
 
 void SortPocketAndPlaceHMsFirst(struct BagPocket * pocket);
 u16 BagGetItemIdByPocketPosition(u8 pocketId, u16 itemId);

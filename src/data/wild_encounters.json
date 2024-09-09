@@ -80,7 +80,7 @@
           "map": "MAP_SEVEN_ISLAND_TANOBY_RUINS_MONEAN_CHAMBER",
           "base_label": "sSevenIslandTanobyRuinsMoneanChamber_FireRed",
           "land_mons": {
-            "encounter_rate": 7,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 25,
@@ -149,7 +149,7 @@
           "map": "MAP_SEVEN_ISLAND_TANOBY_RUINS_LIPTOO_CHAMBER",
           "base_label": "sSevenIslandTanobyRuinsLiptooChamber_FireRed",
           "land_mons": {
-            "encounter_rate": 7,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 25,
@@ -218,7 +218,7 @@
           "map": "MAP_SEVEN_ISLAND_TANOBY_RUINS_WEEPTH_CHAMBER",
           "base_label": "sSevenIslandTanobyRuinsWeepthChamber_FireRed",
           "land_mons": {
-            "encounter_rate": 7,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 25,
@@ -287,7 +287,7 @@
           "map": "MAP_SEVEN_ISLAND_TANOBY_RUINS_DILFORD_CHAMBER",
           "base_label": "sSevenIslandTanobyRuinsDilfordChamber_FireRed",
           "land_mons": {
-            "encounter_rate": 7,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 25,
@@ -356,7 +356,7 @@
           "map": "MAP_SEVEN_ISLAND_TANOBY_RUINS_SCUFIB_CHAMBER",
           "base_label": "sSevenIslandTanobyRuinsScufibChamber_FireRed",
           "land_mons": {
-            "encounter_rate": 7,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 25,
@@ -425,7 +425,7 @@
           "map": "MAP_SEVEN_ISLAND_TANOBY_RUINS_RIXY_CHAMBER",
           "base_label": "sSevenIslandTanobyRuinsRixyChamber_FireRed",
           "land_mons": {
-            "encounter_rate": 7,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 25,
@@ -494,7 +494,7 @@
           "map": "MAP_SEVEN_ISLAND_TANOBY_RUINS_VIAPOIS_CHAMBER",
           "base_label": "sSevenIslandTanobyRuinsViapoisChamber_FireRed",
           "land_mons": {
-            "encounter_rate": 7,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 25,
@@ -563,7 +563,7 @@
           "map": "MAP_VIRIDIAN_FOREST",
           "base_label": "sViridianForest_FireRed",
           "land_mons": {
-            "encounter_rate": 14,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 4,
@@ -632,7 +632,7 @@
           "map": "MAP_MT_MOON_1F",
           "base_label": "sMtMoon1F_FireRed",
           "land_mons": {
-            "encounter_rate": 7,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 7,
@@ -701,7 +701,7 @@
           "map": "MAP_MT_MOON_B1F",
           "base_label": "sMtMoonB1F_FireRed",
           "land_mons": {
-            "encounter_rate": 5,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 7,
@@ -770,7 +770,7 @@
           "map": "MAP_MT_MOON_B2F",
           "base_label": "sMtMoonB2F_FireRed",
           "land_mons": {
-            "encounter_rate": 7,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 8,
@@ -839,7 +839,7 @@
           "map": "MAP_SSANNE_EXTERIOR",
           "base_label": "sSSAnneExterior_FireRed",
           "water_mons": {
-            "encounter_rate": 1,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 5,
@@ -869,7 +869,7 @@
             ]
           },
           "fishing_mons": {
-            "encounter_rate": 10,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 5,
@@ -928,7 +928,7 @@
           "map": "MAP_DIGLETTS_CAVE_B1F",
           "base_label": "sDiglettsCaveB1F_FireRed",
           "land_mons": {
-            "encounter_rate": 5,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 18,
@@ -997,7 +997,7 @@
           "map": "MAP_VICTORY_ROAD_1F",
           "base_label": "sVictoryRoad1F_FireRed",
           "land_mons": {
-            "encounter_rate": 7,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 32,
@@ -1066,7 +1066,7 @@
           "map": "MAP_VICTORY_ROAD_2F",
           "base_label": "sVictoryRoad2F_FireRed",
           "land_mons": {
-            "encounter_rate": 7,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 34,
@@ -1135,7 +1135,7 @@
           "map": "MAP_VICTORY_ROAD_3F",
           "base_label": "sVictoryRoad3F_FireRed",
           "land_mons": {
-            "encounter_rate": 7,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 32,
@@ -1204,7 +1204,7 @@
           "map": "MAP_POKEMON_MANSION_1F",
           "base_label": "sPokemonMansion1F_FireRed",
           "land_mons": {
-            "encounter_rate": 7,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 28,
@@ -1273,7 +1273,7 @@
           "map": "MAP_POKEMON_MANSION_2F",
           "base_label": "sPokemonMansion2F_FireRed",
           "land_mons": {
-            "encounter_rate": 7,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 28,
@@ -1342,7 +1342,7 @@
           "map": "MAP_POKEMON_MANSION_3F",
           "base_label": "sPokemonMansion3F_FireRed",
           "land_mons": {
-            "encounter_rate": 7,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 28,
@@ -1411,7 +1411,7 @@
           "map": "MAP_POKEMON_MANSION_B1F",
           "base_label": "sPokemonMansionB1F_FireRed",
           "land_mons": {
-            "encounter_rate": 5,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 28,
@@ -1480,7 +1480,7 @@
           "map": "MAP_SAFARI_ZONE_CENTER",
           "base_label": "sSafariZoneCenter_FireRed",
           "land_mons": {
-            "encounter_rate": 21,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 25,
@@ -1545,7 +1545,7 @@
             ]
           },
           "water_mons": {
-            "encounter_rate": 2,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 20,
@@ -1575,7 +1575,7 @@
             ]
           },
           "fishing_mons": {
-            "encounter_rate": 20,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 5,
@@ -1634,7 +1634,7 @@
           "map": "MAP_SAFARI_ZONE_EAST",
           "base_label": "sSafariZoneEast_FireRed",
           "land_mons": {
-            "encounter_rate": 21,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 24,
@@ -1699,7 +1699,7 @@
             ]
           },
           "water_mons": {
-            "encounter_rate": 2,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 20,
@@ -1729,7 +1729,7 @@
             ]
           },
           "fishing_mons": {
-            "encounter_rate": 20,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 5,
@@ -1788,7 +1788,7 @@
           "map": "MAP_SAFARI_ZONE_NORTH",
           "base_label": "sSafariZoneNorth_FireRed",
           "land_mons": {
-            "encounter_rate": 21,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 26,
@@ -1853,7 +1853,7 @@
             ]
           },
           "water_mons": {
-            "encounter_rate": 2,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 20,
@@ -1883,7 +1883,7 @@
             ]
           },
           "fishing_mons": {
-            "encounter_rate": 20,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 5,
@@ -1942,7 +1942,7 @@
           "map": "MAP_SAFARI_ZONE_WEST",
           "base_label": "sSafariZoneWest_FireRed",
           "land_mons": {
-            "encounter_rate": 21,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 26,
@@ -2007,7 +2007,7 @@
             ]
           },
           "water_mons": {
-            "encounter_rate": 2,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 20,
@@ -2037,7 +2037,7 @@
             ]
           },
           "fishing_mons": {
-            "encounter_rate": 20,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 5,
@@ -2096,7 +2096,7 @@
           "map": "MAP_CERULEAN_CAVE_1F",
           "base_label": "sCeruleanCave1F_FireRed",
           "land_mons": {
-            "encounter_rate": 7,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 49,
@@ -2161,7 +2161,7 @@
             ]
           },
           "water_mons": {
-            "encounter_rate": 2,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 30,
@@ -2191,7 +2191,7 @@
             ]
           },
           "rock_smash_mons": {
-            "encounter_rate": 50,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 30,
@@ -2221,7 +2221,7 @@
             ]
           },
           "fishing_mons": {
-            "encounter_rate": 20,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 5,
@@ -2280,7 +2280,7 @@
           "map": "MAP_CERULEAN_CAVE_2F",
           "base_label": "sCeruleanCave2F_FireRed",
           "land_mons": {
-            "encounter_rate": 7,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 49,
@@ -2345,7 +2345,7 @@
             ]
           },
           "rock_smash_mons": {
-            "encounter_rate": 50,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 35,
@@ -2379,7 +2379,7 @@
           "map": "MAP_CERULEAN_CAVE_B1F",
           "base_label": "sCeruleanCaveB1F_FireRed",
           "land_mons": {
-            "encounter_rate": 7,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 58,
@@ -2444,7 +2444,7 @@
             ]
           },
           "water_mons": {
-            "encounter_rate": 2,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 40,
@@ -2474,7 +2474,7 @@
             ]
           },
           "rock_smash_mons": {
-            "encounter_rate": 50,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 40,
@@ -2504,7 +2504,7 @@
             ]
           },
           "fishing_mons": {
-            "encounter_rate": 20,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 5,
@@ -2563,7 +2563,7 @@
           "map": "MAP_ROCK_TUNNEL_1F",
           "base_label": "sRockTunnel1F_FireRed",
           "land_mons": {
-            "encounter_rate": 7,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 15,
@@ -2632,7 +2632,7 @@
           "map": "MAP_ROCK_TUNNEL_B1F",
           "base_label": "sRockTunnelB1F_FireRed",
           "land_mons": {
-            "encounter_rate": 7,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 16,
@@ -2697,7 +2697,7 @@
             ]
           },
           "rock_smash_mons": {
-            "encounter_rate": 50,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 5,
@@ -2731,7 +2731,7 @@
           "map": "MAP_SEAFOAM_ISLANDS_1F",
           "base_label": "sSeafoamIslands1F_FireRed",
           "land_mons": {
-            "encounter_rate": 7,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 27,
@@ -2800,7 +2800,7 @@
           "map": "MAP_SEAFOAM_ISLANDS_B1F",
           "base_label": "sSeafoamIslandsB1F_FireRed",
           "land_mons": {
-            "encounter_rate": 7,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 29,
@@ -2869,7 +2869,7 @@
           "map": "MAP_SEAFOAM_ISLANDS_B2F",
           "base_label": "sSeafoamIslandsB2F_FireRed",
           "land_mons": {
-            "encounter_rate": 7,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 30,
@@ -2938,7 +2938,7 @@
           "map": "MAP_SEAFOAM_ISLANDS_B3F",
           "base_label": "sSeafoamIslandsB3F_FireRed",
           "land_mons": {
-            "encounter_rate": 7,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 30,
@@ -3003,7 +3003,7 @@
             ]
           },
           "water_mons": {
-            "encounter_rate": 2,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 25,
@@ -3033,7 +3033,7 @@
             ]
           },
           "fishing_mons": {
-            "encounter_rate": 20,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 5,
@@ -3092,7 +3092,7 @@
           "map": "MAP_SEAFOAM_ISLANDS_B4F",
           "base_label": "sSeafoamIslandsB4F_FireRed",
           "land_mons": {
-            "encounter_rate": 7,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 30,
@@ -3157,7 +3157,7 @@
             ]
           },
           "water_mons": {
-            "encounter_rate": 2,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 25,
@@ -3187,7 +3187,7 @@
             ]
           },
           "fishing_mons": {
-            "encounter_rate": 20,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 5,
@@ -3246,7 +3246,7 @@
           "map": "MAP_POKEMON_TOWER_3F",
           "base_label": "sPokemonTower3F_FireRed",
           "land_mons": {
-            "encounter_rate": 2,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 15,
@@ -3315,7 +3315,7 @@
           "map": "MAP_POKEMON_TOWER_4F",
           "base_label": "sPokemonTower4F_FireRed",
           "land_mons": {
-            "encounter_rate": 4,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 15,
@@ -3384,7 +3384,7 @@
           "map": "MAP_POKEMON_TOWER_5F",
           "base_label": "sPokemonTower5F_FireRed",
           "land_mons": {
-            "encounter_rate": 6,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 15,
@@ -3453,7 +3453,7 @@
           "map": "MAP_POKEMON_TOWER_6F",
           "base_label": "sPokemonTower6F_FireRed",
           "land_mons": {
-            "encounter_rate": 8,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 16,
@@ -3522,7 +3522,7 @@
           "map": "MAP_POKEMON_TOWER_7F",
           "base_label": "sPokemonTower7F_FireRed",
           "land_mons": {
-            "encounter_rate": 10,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 16,
@@ -3591,7 +3591,7 @@
           "map": "MAP_POWER_PLANT",
           "base_label": "sPowerPlant_FireRed",
           "land_mons": {
-            "encounter_rate": 7,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 22,
@@ -3660,7 +3660,7 @@
           "map": "MAP_MT_EMBER_EXTERIOR",
           "base_label": "sMtEmberExterior_FireRed",
           "land_mons": {
-            "encounter_rate": 21,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 30,
@@ -3725,7 +3725,7 @@
             ]
           },
           "rock_smash_mons": {
-            "encounter_rate": 50,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 5,
@@ -3759,7 +3759,7 @@
           "map": "MAP_MT_EMBER_SUMMIT_PATH_1F",
           "base_label": "sMtEmberSummitPath1F_FireRed",
           "land_mons": {
-            "encounter_rate": 7,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 33,
@@ -3828,7 +3828,7 @@
           "map": "MAP_MT_EMBER_SUMMIT_PATH_2F",
           "base_label": "sMtEmberSummitPath2F_FireRed",
           "land_mons": {
-            "encounter_rate": 7,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 34,
@@ -3893,7 +3893,7 @@
             ]
           },
           "rock_smash_mons": {
-            "encounter_rate": 50,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 5,
@@ -3927,7 +3927,7 @@
           "map": "MAP_MT_EMBER_SUMMIT_PATH_3F",
           "base_label": "sMtEmberSummitPath3F_FireRed",
           "land_mons": {
-            "encounter_rate": 7,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 33,
@@ -3996,7 +3996,7 @@
           "map": "MAP_MT_EMBER_RUBY_PATH_1F",
           "base_label": "sMtEmberRubyPath1F_FireRed",
           "land_mons": {
-            "encounter_rate": 7,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 36,
@@ -4061,7 +4061,7 @@
             ]
           },
           "rock_smash_mons": {
-            "encounter_rate": 50,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 25,
@@ -4095,7 +4095,7 @@
           "map": "MAP_MT_EMBER_RUBY_PATH_B1F",
           "base_label": "sMtEmberRubyPathB1F_FireRed",
           "land_mons": {
-            "encounter_rate": 7,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 38,
@@ -4160,7 +4160,7 @@
             ]
           },
           "rock_smash_mons": {
-            "encounter_rate": 50,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 25,
@@ -4194,7 +4194,7 @@
           "map": "MAP_MT_EMBER_RUBY_PATH_B2F",
           "base_label": "sMtEmberRubyPathB2F_FireRed",
           "land_mons": {
-            "encounter_rate": 7,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 40,
@@ -4259,7 +4259,7 @@
             ]
           },
           "rock_smash_mons": {
-            "encounter_rate": 50,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 25,
@@ -4293,7 +4293,7 @@
           "map": "MAP_MT_EMBER_RUBY_PATH_B3F",
           "base_label": "sMtEmberRubyPathB3F_FireRed",
           "land_mons": {
-            "encounter_rate": 7,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 26,
@@ -4358,7 +4358,7 @@
             ]
           },
           "rock_smash_mons": {
-            "encounter_rate": 50,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 15,
@@ -4392,7 +4392,7 @@
           "map": "MAP_MT_EMBER_RUBY_PATH_B1F_STAIRS",
           "base_label": "sMtEmberRubyPathB1FStairs_FireRed",
           "land_mons": {
-            "encounter_rate": 7,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 40,
@@ -4457,7 +4457,7 @@
             ]
           },
           "rock_smash_mons": {
-            "encounter_rate": 50,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 25,
@@ -4491,7 +4491,7 @@
           "map": "MAP_MT_EMBER_RUBY_PATH_B2F_STAIRS",
           "base_label": "sMtEmberRubyPathB2FStairs_FireRed",
           "land_mons": {
-            "encounter_rate": 7,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 38,
@@ -4556,7 +4556,7 @@
             ]
           },
           "rock_smash_mons": {
-            "encounter_rate": 50,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 25,
@@ -4590,7 +4590,7 @@
           "map": "MAP_THREE_ISLAND_BERRY_FOREST",
           "base_label": "sThreeIslandBerryForest_FireRed",
           "land_mons": {
-            "encounter_rate": 21,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 37,
@@ -4655,7 +4655,7 @@
             ]
           },
           "water_mons": {
-            "encounter_rate": 2,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 5,
@@ -4685,7 +4685,7 @@
             ]
           },
           "fishing_mons": {
-            "encounter_rate": 20,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 5,
@@ -4744,7 +4744,7 @@
           "map": "MAP_FOUR_ISLAND_ICEFALL_CAVE_ENTRANCE",
           "base_label": "sFourIslandIcefallCaveEntrance_FireRed",
           "land_mons": {
-            "encounter_rate": 7,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 43,
@@ -4809,7 +4809,7 @@
             ]
           },
           "water_mons": {
-            "encounter_rate": 2,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 5,
@@ -4839,7 +4839,7 @@
             ]
           },
           "fishing_mons": {
-            "encounter_rate": 20,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 5,
@@ -4898,7 +4898,7 @@
           "map": "MAP_FOUR_ISLAND_ICEFALL_CAVE_1F",
           "base_label": "sFourIslandIcefallCave1F_FireRed",
           "land_mons": {
-            "encounter_rate": 7,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 25,
@@ -4967,7 +4967,7 @@
           "map": "MAP_FOUR_ISLAND_ICEFALL_CAVE_B1F",
           "base_label": "sFourIslandIcefallCaveB1F_FireRed",
           "land_mons": {
-            "encounter_rate": 7,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 25,
@@ -5036,7 +5036,7 @@
           "map": "MAP_FOUR_ISLAND_ICEFALL_CAVE_BACK",
           "base_label": "sFourIslandIcefallCaveBack_FireRed",
           "land_mons": {
-            "encounter_rate": 7,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 43,
@@ -5101,7 +5101,7 @@
             ]
           },
           "water_mons": {
-            "encounter_rate": 2,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 5,
@@ -5131,7 +5131,7 @@
             ]
           },
           "fishing_mons": {
-            "encounter_rate": 20,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 5,
@@ -5190,7 +5190,7 @@
           "map": "MAP_SIX_ISLAND_PATTERN_BUSH",
           "base_label": "sSixIslandPatternBush_FireRed",
           "land_mons": {
-            "encounter_rate": 21,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 9,
@@ -5259,7 +5259,7 @@
           "map": "MAP_FIVE_ISLAND_LOST_CAVE_ROOM1",
           "base_label": "sFiveIslandLostCaveRoom1_FireRed",
           "land_mons": {
-            "encounter_rate": 1,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 40,
@@ -5328,7 +5328,7 @@
           "map": "MAP_FIVE_ISLAND_LOST_CAVE_ROOM2",
           "base_label": "sFiveIslandLostCaveRoom2_FireRed",
           "land_mons": {
-            "encounter_rate": 2,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 40,
@@ -5397,7 +5397,7 @@
           "map": "MAP_FIVE_ISLAND_LOST_CAVE_ROOM3",
           "base_label": "sFiveIslandLostCaveRoom3_FireRed",
           "land_mons": {
-            "encounter_rate": 3,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 40,
@@ -5466,7 +5466,7 @@
           "map": "MAP_FIVE_ISLAND_LOST_CAVE_ROOM4",
           "base_label": "sFiveIslandLostCaveRoom4_FireRed",
           "land_mons": {
-            "encounter_rate": 4,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 40,
@@ -5535,7 +5535,7 @@
           "map": "MAP_FIVE_ISLAND_LOST_CAVE_ROOM5",
           "base_label": "sFiveIslandLostCaveRoom5_FireRed",
           "land_mons": {
-            "encounter_rate": 5,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 40,
@@ -5604,7 +5604,7 @@
           "map": "MAP_FIVE_ISLAND_LOST_CAVE_ROOM6",
           "base_label": "sFiveIslandLostCaveRoom6_FireRed",
           "land_mons": {
-            "encounter_rate": 6,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 40,
@@ -5673,7 +5673,7 @@
           "map": "MAP_FIVE_ISLAND_LOST_CAVE_ROOM7",
           "base_label": "sFiveIslandLostCaveRoom7_FireRed",
           "land_mons": {
-            "encounter_rate": 7,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 40,
@@ -5742,7 +5742,7 @@
           "map": "MAP_FIVE_ISLAND_LOST_CAVE_ROOM8",
           "base_label": "sFiveIslandLostCaveRoom8_FireRed",
           "land_mons": {
-            "encounter_rate": 8,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 40,
@@ -5811,7 +5811,7 @@
           "map": "MAP_FIVE_ISLAND_LOST_CAVE_ROOM9",
           "base_label": "sFiveIslandLostCaveRoom9_FireRed",
           "land_mons": {
-            "encounter_rate": 9,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 40,
@@ -5880,7 +5880,7 @@
           "map": "MAP_FIVE_ISLAND_LOST_CAVE_ROOM10",
           "base_label": "sFiveIslandLostCaveRoom10_FireRed",
           "land_mons": {
-            "encounter_rate": 10,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 40,
@@ -5949,7 +5949,7 @@
           "map": "MAP_FIVE_ISLAND_LOST_CAVE_ROOM11",
           "base_label": "sFiveIslandLostCaveRoom11_FireRed",
           "land_mons": {
-            "encounter_rate": 5,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 40,
@@ -6018,7 +6018,7 @@
           "map": "MAP_FIVE_ISLAND_LOST_CAVE_ROOM12",
           "base_label": "sFiveIslandLostCaveRoom12_FireRed",
           "land_mons": {
-            "encounter_rate": 5,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 40,
@@ -6087,7 +6087,7 @@
           "map": "MAP_FIVE_ISLAND_LOST_CAVE_ROOM13",
           "base_label": "sFiveIslandLostCaveRoom13_FireRed",
           "land_mons": {
-            "encounter_rate": 5,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 40,
@@ -6156,7 +6156,7 @@
           "map": "MAP_FIVE_ISLAND_LOST_CAVE_ROOM14",
           "base_label": "sFiveIslandLostCaveRoom14_FireRed",
           "land_mons": {
-            "encounter_rate": 5,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 40,
@@ -6225,7 +6225,7 @@
           "map": "MAP_ONE_ISLAND_KINDLE_ROAD",
           "base_label": "sOneIslandKindleRoad_FireRed",
           "land_mons": {
-            "encounter_rate": 21,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 32,
@@ -6290,7 +6290,7 @@
             ]
           },
           "water_mons": {
-            "encounter_rate": 2,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 5,
@@ -6320,7 +6320,7 @@
             ]
           },
           "rock_smash_mons": {
-            "encounter_rate": 25,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 5,
@@ -6350,7 +6350,7 @@
             ]
           },
           "fishing_mons": {
-            "encounter_rate": 20,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 5,
@@ -6409,7 +6409,7 @@
           "map": "MAP_ONE_ISLAND_TREASURE_BEACH",
           "base_label": "sOneIslandTreasureBeach_FireRed",
           "land_mons": {
-            "encounter_rate": 21,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 32,
@@ -6474,7 +6474,7 @@
             ]
           },
           "water_mons": {
-            "encounter_rate": 2,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 5,
@@ -6504,7 +6504,7 @@
             ]
           },
           "fishing_mons": {
-            "encounter_rate": 20,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 5,
@@ -6563,7 +6563,7 @@
           "map": "MAP_TWO_ISLAND_CAPE_BRINK",
           "base_label": "sTwoIslandCapeBrink_FireRed",
           "land_mons": {
-            "encounter_rate": 21,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 31,
@@ -6628,7 +6628,7 @@
             ]
           },
           "water_mons": {
-            "encounter_rate": 2,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 5,
@@ -6658,7 +6658,7 @@
             ]
           },
           "fishing_mons": {
-            "encounter_rate": 20,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 5,
@@ -6717,7 +6717,7 @@
           "map": "MAP_THREE_ISLAND_BOND_BRIDGE",
           "base_label": "sThreeIslandBondBridge_FireRed",
           "land_mons": {
-            "encounter_rate": 21,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 32,
@@ -6782,7 +6782,7 @@
             ]
           },
           "water_mons": {
-            "encounter_rate": 2,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 5,
@@ -6812,7 +6812,7 @@
             ]
           },
           "fishing_mons": {
-            "encounter_rate": 20,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 5,
@@ -6871,7 +6871,7 @@
           "map": "MAP_THREE_ISLAND_PORT",
           "base_label": "sThreeIslandPort_FireRed",
           "land_mons": {
-            "encounter_rate": 1,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 15,
@@ -6940,7 +6940,7 @@
           "map": "MAP_FIVE_ISLAND_RESORT_GORGEOUS",
           "base_label": "sFiveIslandResortGorgeous_FireRed",
           "water_mons": {
-            "encounter_rate": 2,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 5,
@@ -6970,7 +6970,7 @@
             ]
           },
           "fishing_mons": {
-            "encounter_rate": 20,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 5,
@@ -7029,7 +7029,7 @@
           "map": "MAP_FIVE_ISLAND_WATER_LABYRINTH",
           "base_label": "sFiveIslandWaterLabyrinth_FireRed",
           "water_mons": {
-            "encounter_rate": 2,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 5,
@@ -7059,7 +7059,7 @@
             ]
           },
           "fishing_mons": {
-            "encounter_rate": 20,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 5,
@@ -7118,7 +7118,7 @@
           "map": "MAP_FIVE_ISLAND_MEADOW",
           "base_label": "sFiveIslandMeadow_FireRed",
           "land_mons": {
-            "encounter_rate": 21,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 44,
@@ -7183,7 +7183,7 @@
             ]
           },
           "water_mons": {
-            "encounter_rate": 2,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 5,
@@ -7213,7 +7213,7 @@
             ]
           },
           "fishing_mons": {
-            "encounter_rate": 20,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 5,
@@ -7272,7 +7272,7 @@
           "map": "MAP_FIVE_ISLAND_MEMORIAL_PILLAR",
           "base_label": "sFiveIslandMemorialPillar_FireRed",
           "land_mons": {
-            "encounter_rate": 21,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 10,
@@ -7337,7 +7337,7 @@
             ]
           },
           "water_mons": {
-            "encounter_rate": 2,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 5,
@@ -7367,7 +7367,7 @@
             ]
           },
           "fishing_mons": {
-            "encounter_rate": 20,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 5,
@@ -7426,7 +7426,7 @@
           "map": "MAP_SIX_ISLAND_OUTCAST_ISLAND",
           "base_label": "sSixIslandOutcastIsland_FireRed",
           "water_mons": {
-            "encounter_rate": 2,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 5,
@@ -7456,7 +7456,7 @@
             ]
           },
           "fishing_mons": {
-            "encounter_rate": 20,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 5,
@@ -7515,7 +7515,7 @@
           "map": "MAP_SIX_ISLAND_GREEN_PATH",
           "base_label": "sSixIslandGreenPath_FireRed",
           "water_mons": {
-            "encounter_rate": 2,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 5,
@@ -7545,7 +7545,7 @@
             ]
           },
           "fishing_mons": {
-            "encounter_rate": 20,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 5,
@@ -7604,7 +7604,7 @@
           "map": "MAP_SIX_ISLAND_WATER_PATH",
           "base_label": "sSixIslandWaterPath_FireRed",
           "land_mons": {
-            "encounter_rate": 21,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 44,
@@ -7669,7 +7669,7 @@
             ]
           },
           "water_mons": {
-            "encounter_rate": 2,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 5,
@@ -7699,7 +7699,7 @@
             ]
           },
           "fishing_mons": {
-            "encounter_rate": 20,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 5,
@@ -7758,7 +7758,7 @@
           "map": "MAP_SIX_ISLAND_RUIN_VALLEY",
           "base_label": "sSixIslandRuinValley_FireRed",
           "land_mons": {
-            "encounter_rate": 21,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 15,
@@ -7823,7 +7823,7 @@
             ]
           },
           "water_mons": {
-            "encounter_rate": 2,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 5,
@@ -7853,7 +7853,7 @@
             ]
           },
           "fishing_mons": {
-            "encounter_rate": 20,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 5,
@@ -7912,7 +7912,7 @@
           "map": "MAP_SEVEN_ISLAND_TRAINER_TOWER",
           "base_label": "sSevenIslandTrainerTower_FireRed",
           "water_mons": {
-            "encounter_rate": 2,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 5,
@@ -7942,7 +7942,7 @@
             ]
           },
           "fishing_mons": {
-            "encounter_rate": 20,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 5,
@@ -8001,7 +8001,7 @@
           "map": "MAP_SEVEN_ISLAND_SEVAULT_CANYON_ENTRANCE",
           "base_label": "sSevenIslandSevaultCanyonEntrance_FireRed",
           "land_mons": {
-            "encounter_rate": 21,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 44,
@@ -8070,7 +8070,7 @@
           "map": "MAP_SEVEN_ISLAND_SEVAULT_CANYON",
           "base_label": "sSevenIslandSevaultCanyon_FireRed",
           "land_mons": {
-            "encounter_rate": 21,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 46,
@@ -8135,7 +8135,7 @@
             ]
           },
           "rock_smash_mons": {
-            "encounter_rate": 25,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 25,
@@ -8169,7 +8169,7 @@
           "map": "MAP_SEVEN_ISLAND_TANOBY_RUINS",
           "base_label": "sSevenIslandTanobyRuins_FireRed",
           "water_mons": {
-            "encounter_rate": 2,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 5,
@@ -8199,7 +8199,7 @@
             ]
           },
           "fishing_mons": {
-            "encounter_rate": 20,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 5,
@@ -8258,7 +8258,7 @@
           "map": "MAP_ROUTE1",
           "base_label": "sRoute1_FireRed",
           "land_mons": {
-            "encounter_rate": 21,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 3,
@@ -8327,7 +8327,7 @@
           "map": "MAP_ROUTE2",
           "base_label": "sRoute2_FireRed",
           "land_mons": {
-            "encounter_rate": 21,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 3,
@@ -8396,7 +8396,7 @@
           "map": "MAP_ROUTE3",
           "base_label": "sRoute3_FireRed",
           "land_mons": {
-            "encounter_rate": 21,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 6,
@@ -8465,7 +8465,7 @@
           "map": "MAP_ROUTE4",
           "base_label": "sRoute4_FireRed",
           "land_mons": {
-            "encounter_rate": 21,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 10,
@@ -8530,7 +8530,7 @@
             ]
           },
           "water_mons": {
-            "encounter_rate": 2,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 5,
@@ -8560,7 +8560,7 @@
             ]
           },
           "fishing_mons": {
-            "encounter_rate": 20,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 5,
@@ -8619,7 +8619,7 @@
           "map": "MAP_ROUTE5",
           "base_label": "sRoute5_FireRed",
           "land_mons": {
-            "encounter_rate": 21,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 10,
@@ -8688,7 +8688,7 @@
           "map": "MAP_ROUTE6",
           "base_label": "sRoute6_FireRed",
           "land_mons": {
-            "encounter_rate": 21,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 10,
@@ -8753,7 +8753,7 @@
             ]
           },
           "water_mons": {
-            "encounter_rate": 2,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 20,
@@ -8783,7 +8783,7 @@
             ]
           },
           "fishing_mons": {
-            "encounter_rate": 20,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 5,
@@ -8842,7 +8842,7 @@
           "map": "MAP_ROUTE7",
           "base_label": "sRoute7_FireRed",
           "land_mons": {
-            "encounter_rate": 21,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 19,
@@ -8911,7 +8911,7 @@
           "map": "MAP_ROUTE8",
           "base_label": "sRoute8_FireRed",
           "land_mons": {
-            "encounter_rate": 21,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 18,
@@ -8980,7 +8980,7 @@
           "map": "MAP_ROUTE9",
           "base_label": "sRoute9_FireRed",
           "land_mons": {
-            "encounter_rate": 21,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 16,
@@ -9049,7 +9049,7 @@
           "map": "MAP_ROUTE10",
           "base_label": "sRoute10_FireRed",
           "land_mons": {
-            "encounter_rate": 21,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 16,
@@ -9114,7 +9114,7 @@
             ]
           },
           "water_mons": {
-            "encounter_rate": 2,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 5,
@@ -9144,7 +9144,7 @@
             ]
           },
           "fishing_mons": {
-            "encounter_rate": 20,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 5,
@@ -9203,7 +9203,7 @@
           "map": "MAP_ROUTE11",
           "base_label": "sRoute11_FireRed",
           "land_mons": {
-            "encounter_rate": 21,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 14,
@@ -9268,7 +9268,7 @@
             ]
           },
           "water_mons": {
-            "encounter_rate": 2,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 5,
@@ -9298,7 +9298,7 @@
             ]
           },
           "fishing_mons": {
-            "encounter_rate": 20,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 5,
@@ -9357,7 +9357,7 @@
           "map": "MAP_ROUTE12",
           "base_label": "sRoute12_FireRed",
           "land_mons": {
-            "encounter_rate": 21,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 24,
@@ -9422,7 +9422,7 @@
             ]
           },
           "water_mons": {
-            "encounter_rate": 2,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 5,
@@ -9452,7 +9452,7 @@
             ]
           },
           "fishing_mons": {
-            "encounter_rate": 60,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 5,
@@ -9511,7 +9511,7 @@
           "map": "MAP_ROUTE13",
           "base_label": "sRoute13_FireRed",
           "land_mons": {
-            "encounter_rate": 21,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 24,
@@ -9576,7 +9576,7 @@
             ]
           },
           "water_mons": {
-            "encounter_rate": 2,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 5,
@@ -9606,7 +9606,7 @@
             ]
           },
           "fishing_mons": {
-            "encounter_rate": 20,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 5,
@@ -9665,7 +9665,7 @@
           "map": "MAP_ROUTE14",
           "base_label": "sRoute14_FireRed",
           "land_mons": {
-            "encounter_rate": 21,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 24,
@@ -9734,7 +9734,7 @@
           "map": "MAP_ROUTE15",
           "base_label": "sRoute15_FireRed",
           "land_mons": {
-            "encounter_rate": 21,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 24,
@@ -9803,7 +9803,7 @@
           "map": "MAP_ROUTE16",
           "base_label": "sRoute16_FireRed",
           "land_mons": {
-            "encounter_rate": 21,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 20,
@@ -9872,7 +9872,7 @@
           "map": "MAP_ROUTE17",
           "base_label": "sRoute17_FireRed",
           "land_mons": {
-            "encounter_rate": 21,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 20,
@@ -9941,7 +9941,7 @@
           "map": "MAP_ROUTE18",
           "base_label": "sRoute18_FireRed",
           "land_mons": {
-            "encounter_rate": 21,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 20,
@@ -10010,7 +10010,7 @@
           "map": "MAP_ROUTE19",
           "base_label": "sRoute19_FireRed",
           "water_mons": {
-            "encounter_rate": 2,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 5,
@@ -10040,7 +10040,7 @@
             ]
           },
           "fishing_mons": {
-            "encounter_rate": 20,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 5,
@@ -10099,7 +10099,7 @@
           "map": "MAP_ROUTE20",
           "base_label": "sRoute20_FireRed",
           "water_mons": {
-            "encounter_rate": 2,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 5,
@@ -10129,7 +10129,7 @@
             ]
           },
           "fishing_mons": {
-            "encounter_rate": 20,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 5,
@@ -10188,7 +10188,7 @@
           "map": "MAP_ROUTE21_NORTH",
           "base_label": "sRoute21North_FireRed",
           "land_mons": {
-            "encounter_rate": 14,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 22,
@@ -10253,7 +10253,7 @@
             ]
           },
           "water_mons": {
-            "encounter_rate": 2,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 5,
@@ -10283,7 +10283,7 @@
             ]
           },
           "fishing_mons": {
-            "encounter_rate": 20,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 5,
@@ -10342,7 +10342,7 @@
           "map": "MAP_ROUTE21_SOUTH",
           "base_label": "sRoute21South_FireRed",
           "land_mons": {
-            "encounter_rate": 14,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 22,
@@ -10407,7 +10407,7 @@
             ]
           },
           "water_mons": {
-            "encounter_rate": 2,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 5,
@@ -10437,7 +10437,7 @@
             ]
           },
           "fishing_mons": {
-            "encounter_rate": 20,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 5,
@@ -10496,7 +10496,7 @@
           "map": "MAP_ROUTE22",
           "base_label": "sRoute22_FireRed",
           "land_mons": {
-            "encounter_rate": 21,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 3,
@@ -10561,7 +10561,7 @@
             ]
           },
           "water_mons": {
-            "encounter_rate": 2,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 20,
@@ -10591,7 +10591,7 @@
             ]
           },
           "fishing_mons": {
-            "encounter_rate": 20,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 5,
@@ -10650,7 +10650,7 @@
           "map": "MAP_ROUTE23",
           "base_label": "sRoute23_FireRed",
           "land_mons": {
-            "encounter_rate": 21,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 32,
@@ -10715,7 +10715,7 @@
             ]
           },
           "water_mons": {
-            "encounter_rate": 2,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 20,
@@ -10745,7 +10745,7 @@
             ]
           },
           "fishing_mons": {
-            "encounter_rate": 20,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 5,
@@ -10804,7 +10804,7 @@
           "map": "MAP_ROUTE24",
           "base_label": "sRoute24_FireRed",
           "land_mons": {
-            "encounter_rate": 21,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 7,
@@ -10869,7 +10869,7 @@
             ]
           },
           "water_mons": {
-            "encounter_rate": 2,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 5,
@@ -10899,7 +10899,7 @@
             ]
           },
           "fishing_mons": {
-            "encounter_rate": 20,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 5,
@@ -10958,7 +10958,7 @@
           "map": "MAP_ROUTE25",
           "base_label": "sRoute25_FireRed",
           "land_mons": {
-            "encounter_rate": 21,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 8,
@@ -11023,7 +11023,7 @@
             ]
           },
           "water_mons": {
-            "encounter_rate": 2,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 20,
@@ -11053,7 +11053,7 @@
             ]
           },
           "fishing_mons": {
-            "encounter_rate": 20,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 5,
@@ -11112,7 +11112,7 @@
           "map": "MAP_PALLET_TOWN",
           "base_label": "sPalletTown_FireRed",
           "water_mons": {
-            "encounter_rate": 1,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 5,
@@ -11142,7 +11142,7 @@
             ]
           },
           "fishing_mons": {
-            "encounter_rate": 10,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 5,
@@ -11201,7 +11201,7 @@
           "map": "MAP_VIRIDIAN_CITY",
           "base_label": "sViridianCity_FireRed",
           "water_mons": {
-            "encounter_rate": 1,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 20,
@@ -11231,7 +11231,7 @@
             ]
           },
           "fishing_mons": {
-            "encounter_rate": 10,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 5,
@@ -11290,7 +11290,7 @@
           "map": "MAP_CERULEAN_CITY",
           "base_label": "sCeruleanCity_FireRed",
           "water_mons": {
-            "encounter_rate": 1,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 5,
@@ -11320,7 +11320,7 @@
             ]
           },
           "fishing_mons": {
-            "encounter_rate": 10,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 5,
@@ -11379,7 +11379,7 @@
           "map": "MAP_VERMILION_CITY",
           "base_label": "sVermilionCity_FireRed",
           "water_mons": {
-            "encounter_rate": 1,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 5,
@@ -11409,7 +11409,7 @@
             ]
           },
           "fishing_mons": {
-            "encounter_rate": 10,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 5,
@@ -11468,7 +11468,7 @@
           "map": "MAP_CELADON_CITY",
           "base_label": "sCeladonCity_FireRed",
           "water_mons": {
-            "encounter_rate": 1,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 5,
@@ -11498,7 +11498,7 @@
             ]
           },
           "fishing_mons": {
-            "encounter_rate": 10,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 5,
@@ -11557,7 +11557,7 @@
           "map": "MAP_FUCHSIA_CITY",
           "base_label": "sFuchsiaCity_FireRed",
           "water_mons": {
-            "encounter_rate": 1,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 20,
@@ -11587,7 +11587,7 @@
             ]
           },
           "fishing_mons": {
-            "encounter_rate": 10,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 5,
@@ -11646,7 +11646,7 @@
           "map": "MAP_CINNABAR_ISLAND",
           "base_label": "sCinnabarIsland_FireRed",
           "water_mons": {
-            "encounter_rate": 1,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 5,
@@ -11676,7 +11676,7 @@
             ]
           },
           "fishing_mons": {
-            "encounter_rate": 10,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 5,
@@ -11735,7 +11735,7 @@
           "map": "MAP_ONE_ISLAND",
           "base_label": "sOneIsland_FireRed",
           "water_mons": {
-            "encounter_rate": 1,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 5,
@@ -11765,7 +11765,7 @@
             ]
           },
           "fishing_mons": {
-            "encounter_rate": 10,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 5,
@@ -11824,7 +11824,7 @@
           "map": "MAP_FOUR_ISLAND",
           "base_label": "sFourIsland_FireRed",
           "water_mons": {
-            "encounter_rate": 2,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 5,
@@ -11854,7 +11854,7 @@
             ]
           },
           "fishing_mons": {
-            "encounter_rate": 20,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 5,
@@ -11913,7 +11913,7 @@
           "map": "MAP_FIVE_ISLAND",
           "base_label": "sFiveIsland_FireRed",
           "water_mons": {
-            "encounter_rate": 1,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 5,
@@ -11943,7 +11943,7 @@
             ]
           },
           "fishing_mons": {
-            "encounter_rate": 10,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 5,
@@ -12002,7 +12002,7 @@
           "map": "MAP_SIX_ISLAND_ALTERING_CAVE",
           "base_label": "sSixIslandAlteringCave_FireRed",
           "land_mons": {
-            "encounter_rate": 5,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 10,
@@ -12071,7 +12071,7 @@
           "map": "MAP_SIX_ISLAND_ALTERING_CAVE",
           "base_label": "sSixIslandAlteringCave_2_FireRed",
           "land_mons": {
-            "encounter_rate": 5,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 7,
@@ -12140,7 +12140,7 @@
           "map": "MAP_SIX_ISLAND_ALTERING_CAVE",
           "base_label": "sSixIslandAlteringCave_3_FireRed",
           "land_mons": {
-            "encounter_rate": 5,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 23,
@@ -12209,7 +12209,7 @@
           "map": "MAP_SIX_ISLAND_ALTERING_CAVE",
           "base_label": "sSixIslandAlteringCave_4_FireRed",
           "land_mons": {
-            "encounter_rate": 5,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 16,
@@ -12278,7 +12278,7 @@
           "map": "MAP_SIX_ISLAND_ALTERING_CAVE",
           "base_label": "sSixIslandAlteringCave_5_FireRed",
           "land_mons": {
-            "encounter_rate": 5,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 22,
@@ -12347,7 +12347,7 @@
           "map": "MAP_SIX_ISLAND_ALTERING_CAVE",
           "base_label": "sSixIslandAlteringCave_6_FireRed",
           "land_mons": {
-            "encounter_rate": 5,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 22,
@@ -12416,7 +12416,7 @@
           "map": "MAP_SIX_ISLAND_ALTERING_CAVE",
           "base_label": "sSixIslandAlteringCave_7_FireRed",
           "land_mons": {
-            "encounter_rate": 5,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 22,
@@ -12485,7 +12485,7 @@
           "map": "MAP_SIX_ISLAND_ALTERING_CAVE",
           "base_label": "sSixIslandAlteringCave_8_FireRed",
           "land_mons": {
-            "encounter_rate": 5,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 22,
@@ -12554,7 +12554,7 @@
           "map": "MAP_SIX_ISLAND_ALTERING_CAVE",
           "base_label": "sSixIslandAlteringCave_9_FireRed",
           "land_mons": {
-            "encounter_rate": 5,
+            "encounter_rate": 100,
             "mons": [
               {
                 "min_level": 22,
@@ -12685,7 +12685,7 @@
                 "species": "SPECIES_UNOWN"
               }
             ],
-            "encounter_rate": 7
+            "encounter_rate": 100
           }
         },
         {
@@ -12754,7 +12754,7 @@
                 "species": "SPECIES_UNOWN"
               }
             ],
-            "encounter_rate": 7
+            "encounter_rate": 100
           }
         },
         {
@@ -12823,7 +12823,7 @@
                 "species": "SPECIES_UNOWN"
               }
             ],
-            "encounter_rate": 7
+            "encounter_rate": 100
           }
         },
         {
@@ -12892,7 +12892,7 @@
                 "species": "SPECIES_UNOWN"
               }
             ],
-            "encounter_rate": 7
+            "encounter_rate": 100
           }
         },
         {
@@ -12961,7 +12961,7 @@
                 "species": "SPECIES_UNOWN"
               }
             ],
-            "encounter_rate": 7
+            "encounter_rate": 100
           }
         },
         {
@@ -13030,7 +13030,7 @@
                 "species": "SPECIES_UNOWN"
               }
             ],
-            "encounter_rate": 7
+            "encounter_rate": 100
           }
         },
         {
@@ -13099,7 +13099,7 @@
                 "species": "SPECIES_UNOWN"
               }
             ],
-            "encounter_rate": 7
+            "encounter_rate": 100
           }
         },
         {
@@ -13168,7 +13168,7 @@
                 "species": "SPECIES_PIKACHU"
               }
             ],
-            "encounter_rate": 14
+            "encounter_rate": 100
           }
         },
         {
@@ -13237,7 +13237,7 @@
                 "species": "SPECIES_CLEFAIRY"
               }
             ],
-            "encounter_rate": 7
+            "encounter_rate": 100
           }
         },
         {
@@ -13306,7 +13306,7 @@
                 "species": "SPECIES_PARAS"
               }
             ],
-            "encounter_rate": 5
+            "encounter_rate": 100
           }
         },
         {
@@ -13375,7 +13375,7 @@
                 "species": "SPECIES_CLEFAIRY"
               }
             ],
-            "encounter_rate": 7
+            "encounter_rate": 100
           }
         },
         {
@@ -13409,7 +13409,7 @@
                 "species": "SPECIES_TENTACOOL"
               }
             ],
-            "encounter_rate": 1
+            "encounter_rate": 100
           },
           "fishing_mons": {
             "mons": [
@@ -13464,7 +13464,7 @@
                 "species": "SPECIES_SLOWPOKE"
               }
             ],
-            "encounter_rate": 10
+            "encounter_rate": 100
           }
         },
         {
@@ -13533,7 +13533,7 @@
                 "species": "SPECIES_DUGTRIO"
               }
             ],
-            "encounter_rate": 5
+            "encounter_rate": 100
           }
         },
         {
@@ -13602,7 +13602,7 @@
                 "species": "SPECIES_MAROWAK"
               }
             ],
-            "encounter_rate": 7
+            "encounter_rate": 100
           }
         },
         {
@@ -13671,7 +13671,7 @@
                 "species": "SPECIES_MAROWAK"
               }
             ],
-            "encounter_rate": 7
+            "encounter_rate": 100
           }
         },
         {
@@ -13740,7 +13740,7 @@
                 "species": "SPECIES_MAROWAK"
               }
             ],
-            "encounter_rate": 7
+            "encounter_rate": 100
           }
         },
         {
@@ -13809,7 +13809,7 @@
                 "species": "SPECIES_RATTATA"
               }
             ],
-            "encounter_rate": 7
+            "encounter_rate": 100
           }
         },
         {
@@ -13878,7 +13878,7 @@
                 "species": "SPECIES_RATTATA"
               }
             ],
-            "encounter_rate": 7
+            "encounter_rate": 100
           }
         },
         {
@@ -13947,7 +13947,7 @@
                 "species": "SPECIES_RATTATA"
               }
             ],
-            "encounter_rate": 7
+            "encounter_rate": 100
           }
         },
         {
@@ -14016,7 +14016,7 @@
                 "species": "SPECIES_RATTATA"
               }
             ],
-            "encounter_rate": 5
+            "encounter_rate": 100
           }
         },
         {
@@ -14085,7 +14085,7 @@
                 "species": "SPECIES_CHANSEY"
               }
             ],
-            "encounter_rate": 21
+            "encounter_rate": 100
           },
           "water_mons": {
             "mons": [
@@ -14115,7 +14115,7 @@
                 "species": "SPECIES_SLOWPOKE"
               }
             ],
-            "encounter_rate": 2
+            "encounter_rate": 100
           },
           "fishing_mons": {
             "mons": [
@@ -14170,7 +14170,7 @@
                 "species": "SPECIES_DRAGONAIR"
               }
             ],
-            "encounter_rate": 20
+            "encounter_rate": 100
           }
         },
         {
@@ -14239,7 +14239,7 @@
                 "species": "SPECIES_PINSIR"
               }
             ],
-            "encounter_rate": 21
+            "encounter_rate": 100
           },
           "water_mons": {
             "mons": [
@@ -14269,7 +14269,7 @@
                 "species": "SPECIES_SLOWPOKE"
               }
             ],
-            "encounter_rate": 2
+            "encounter_rate": 100
           },
           "fishing_mons": {
             "mons": [
@@ -14324,7 +14324,7 @@
                 "species": "SPECIES_DRAGONAIR"
               }
             ],
-            "encounter_rate": 20
+            "encounter_rate": 100
           }
         },
         {
@@ -14393,7 +14393,7 @@
                 "species": "SPECIES_TAUROS"
               }
             ],
-            "encounter_rate": 21
+            "encounter_rate": 100
           },
           "water_mons": {
             "mons": [
@@ -14423,7 +14423,7 @@
                 "species": "SPECIES_SLOWPOKE"
               }
             ],
-            "encounter_rate": 2
+            "encounter_rate": 100
           },
           "fishing_mons": {
             "mons": [
@@ -14478,7 +14478,7 @@
                 "species": "SPECIES_DRAGONAIR"
               }
             ],
-            "encounter_rate": 20
+            "encounter_rate": 100
           }
         },
         {
@@ -14547,7 +14547,7 @@
                 "species": "SPECIES_KANGASKHAN"
               }
             ],
-            "encounter_rate": 21
+            "encounter_rate": 100
           },
           "water_mons": {
             "mons": [
@@ -14577,7 +14577,7 @@
                 "species": "SPECIES_SLOWPOKE"
               }
             ],
-            "encounter_rate": 2
+            "encounter_rate": 100
           },
           "fishing_mons": {
             "mons": [
@@ -14632,7 +14632,7 @@
                 "species": "SPECIES_DRAGONAIR"
               }
             ],
-            "encounter_rate": 20
+            "encounter_rate": 100
           }
         },
         {
@@ -14701,7 +14701,7 @@
                 "species": "SPECIES_DITTO"
               }
             ],
-            "encounter_rate": 7
+            "encounter_rate": 100
           },
           "water_mons": {
             "mons": [
@@ -14731,7 +14731,7 @@
                 "species": "SPECIES_SLOWPOKE"
               }
             ],
-            "encounter_rate": 2
+            "encounter_rate": 100
           },
           "rock_smash_mons": {
             "mons": [
@@ -14761,7 +14761,7 @@
                 "species": "SPECIES_GEODUDE"
               }
             ],
-            "encounter_rate": 50
+            "encounter_rate": 100
           },
           "fishing_mons": {
             "mons": [
@@ -14816,7 +14816,7 @@
                 "species": "SPECIES_SLOWPOKE"
               }
             ],
-            "encounter_rate": 20
+            "encounter_rate": 100
           }
         },
         {
@@ -14885,7 +14885,7 @@
                 "species": "SPECIES_DITTO"
               }
             ],
-            "encounter_rate": 7
+            "encounter_rate": 100
           },
           "rock_smash_mons": {
             "mons": [
@@ -14915,7 +14915,7 @@
                 "species": "SPECIES_GEODUDE"
               }
             ],
-            "encounter_rate": 50
+            "encounter_rate": 100
           }
         },
         {
@@ -14984,7 +14984,7 @@
                 "species": "SPECIES_WOBBUFFET"
               }
             ],
-            "encounter_rate": 7
+            "encounter_rate": 100
           },
           "water_mons": {
             "mons": [
@@ -15014,7 +15014,7 @@
                 "species": "SPECIES_SLOWPOKE"
               }
             ],
-            "encounter_rate": 2
+            "encounter_rate": 100
           },
           "rock_smash_mons": {
             "mons": [
@@ -15044,7 +15044,7 @@
                 "species": "SPECIES_GEODUDE"
               }
             ],
-            "encounter_rate": 50
+            "encounter_rate": 100
           },
           "fishing_mons": {
             "mons": [
@@ -15099,7 +15099,7 @@
                 "species": "SPECIES_GYARADOS"
               }
             ],
-            "encounter_rate": 20
+            "encounter_rate": 100
           }
         },
         {
@@ -15168,7 +15168,7 @@
                 "species": "SPECIES_ONIX"
               }
             ],
-            "encounter_rate": 7
+            "encounter_rate": 100
           }
         },
         {
@@ -15237,7 +15237,7 @@
                 "species": "SPECIES_ONIX"
               }
             ],
-            "encounter_rate": 7
+            "encounter_rate": 100
           },
           "rock_smash_mons": {
             "mons": [
@@ -15267,7 +15267,7 @@
                 "species": "SPECIES_GRAVELER"
               }
             ],
-            "encounter_rate": 50
+            "encounter_rate": 100
           }
         },
         {
@@ -15336,7 +15336,7 @@
                 "species": "SPECIES_GOLBAT"
               }
             ],
-            "encounter_rate": 7
+            "encounter_rate": 100
           }
         },
         {
@@ -15405,7 +15405,7 @@
                 "species": "SPECIES_GOLBAT"
               }
             ],
-            "encounter_rate": 7
+            "encounter_rate": 100
           }
         },
         {
@@ -15474,7 +15474,7 @@
                 "species": "SPECIES_GOLBAT"
               }
             ],
-            "encounter_rate": 7
+            "encounter_rate": 100
           }
         },
         {
@@ -15543,7 +15543,7 @@
                 "species": "SPECIES_GOLBAT"
               }
             ],
-            "encounter_rate": 7
+            "encounter_rate": 100
           },
           "water_mons": {
             "mons": [
@@ -15573,7 +15573,7 @@
                 "species": "SPECIES_SLOWBRO"
               }
             ],
-            "encounter_rate": 2
+            "encounter_rate": 100
           },
           "fishing_mons": {
             "mons": [
@@ -15628,7 +15628,7 @@
                 "species": "SPECIES_GYARADOS"
               }
             ],
-            "encounter_rate": 20
+            "encounter_rate": 100
           }
         },
         {
@@ -15697,7 +15697,7 @@
                 "species": "SPECIES_GOLBAT"
               }
             ],
-            "encounter_rate": 7
+            "encounter_rate": 100
           },
           "water_mons": {
             "mons": [
@@ -15727,7 +15727,7 @@
                 "species": "SPECIES_SLOWBRO"
               }
             ],
-            "encounter_rate": 2
+            "encounter_rate": 100
           },
           "fishing_mons": {
             "mons": [
@@ -15782,7 +15782,7 @@
                 "species": "SPECIES_GYARADOS"
               }
             ],
-            "encounter_rate": 20
+            "encounter_rate": 100
           }
         },
         {
@@ -15851,7 +15851,7 @@
                 "species": "SPECIES_HAUNTER"
               }
             ],
-            "encounter_rate": 2
+            "encounter_rate": 100
           }
         },
         {
@@ -15920,7 +15920,7 @@
                 "species": "SPECIES_GASTLY"
               }
             ],
-            "encounter_rate": 4
+            "encounter_rate": 100
           }
         },
         {
@@ -15989,7 +15989,7 @@
                 "species": "SPECIES_GASTLY"
               }
             ],
-            "encounter_rate": 6
+            "encounter_rate": 100
           }
         },
         {
@@ -16058,7 +16058,7 @@
                 "species": "SPECIES_HAUNTER"
               }
             ],
-            "encounter_rate": 8
+            "encounter_rate": 100
           }
         },
         {
@@ -16127,7 +16127,7 @@
                 "species": "SPECIES_HAUNTER"
               }
             ],
-            "encounter_rate": 10
+            "encounter_rate": 100
           }
         },
         {
@@ -16196,7 +16196,7 @@
                 "species": "SPECIES_MAGNETON"
               }
             ],
-            "encounter_rate": 7
+            "encounter_rate": 100
           }
         },
         {
@@ -16265,7 +16265,7 @@
                 "species": "SPECIES_RAPIDASH"
               }
             ],
-            "encounter_rate": 21
+            "encounter_rate": 100
           },
           "rock_smash_mons": {
             "mons": [
@@ -16295,7 +16295,7 @@
                 "species": "SPECIES_GRAVELER"
               }
             ],
-            "encounter_rate": 50
+            "encounter_rate": 100
           }
         },
         {
@@ -16364,7 +16364,7 @@
                 "species": "SPECIES_MACHOP"
               }
             ],
-            "encounter_rate": 7
+            "encounter_rate": 100
           }
         },
         {
@@ -16433,7 +16433,7 @@
                 "species": "SPECIES_MACHOKE"
               }
             ],
-            "encounter_rate": 7
+            "encounter_rate": 100
           },
           "rock_smash_mons": {
             "mons": [
@@ -16463,7 +16463,7 @@
                 "species": "SPECIES_GRAVELER"
               }
             ],
-            "encounter_rate": 50
+            "encounter_rate": 100
           }
         },
         {
@@ -16532,7 +16532,7 @@
                 "species": "SPECIES_MACHOP"
               }
             ],
-            "encounter_rate": 7
+            "encounter_rate": 100
           }
         },
         {
@@ -16601,7 +16601,7 @@
                 "species": "SPECIES_MACHOKE"
               }
             ],
-            "encounter_rate": 7
+            "encounter_rate": 100
           },
           "rock_smash_mons": {
             "mons": [
@@ -16631,7 +16631,7 @@
                 "species": "SPECIES_GEODUDE"
               }
             ],
-            "encounter_rate": 50
+            "encounter_rate": 100
           }
         },
         {
@@ -16700,7 +16700,7 @@
                 "species": "SPECIES_SLUGMA"
               }
             ],
-            "encounter_rate": 7
+            "encounter_rate": 100
           },
           "rock_smash_mons": {
             "mons": [
@@ -16730,7 +16730,7 @@
                 "species": "SPECIES_GEODUDE"
               }
             ],
-            "encounter_rate": 50
+            "encounter_rate": 100
           }
         },
         {
@@ -16799,7 +16799,7 @@
                 "species": "SPECIES_SLUGMA"
               }
             ],
-            "encounter_rate": 7
+            "encounter_rate": 100
           },
           "rock_smash_mons": {
             "mons": [
@@ -16829,7 +16829,7 @@
                 "species": "SPECIES_GEODUDE"
               }
             ],
-            "encounter_rate": 50
+            "encounter_rate": 100
           }
         },
         {
@@ -16898,7 +16898,7 @@
                 "species": "SPECIES_SLUGMA"
               }
             ],
-            "encounter_rate": 7
+            "encounter_rate": 100
           },
           "rock_smash_mons": {
             "mons": [
@@ -16928,7 +16928,7 @@
                 "species": "SPECIES_MAGCARGO"
               }
             ],
-            "encounter_rate": 50
+            "encounter_rate": 100
           }
         },
         {
@@ -16997,7 +16997,7 @@
                 "species": "SPECIES_SLUGMA"
               }
             ],
-            "encounter_rate": 7
+            "encounter_rate": 100
           },
           "rock_smash_mons": {
             "mons": [
@@ -17027,7 +17027,7 @@
                 "species": "SPECIES_GEODUDE"
               }
             ],
-            "encounter_rate": 50
+            "encounter_rate": 100
           }
         },
         {
@@ -17096,7 +17096,7 @@
                 "species": "SPECIES_SLUGMA"
               }
             ],
-            "encounter_rate": 7
+            "encounter_rate": 100
           },
           "rock_smash_mons": {
             "mons": [
@@ -17126,7 +17126,7 @@
                 "species": "SPECIES_GEODUDE"
               }
             ],
-            "encounter_rate": 50
+            "encounter_rate": 100
           }
         },
         {
@@ -17195,7 +17195,7 @@
                 "species": "SPECIES_HYPNO"
               }
             ],
-            "encounter_rate": 21
+            "encounter_rate": 100
           },
           "water_mons": {
             "mons": [
@@ -17225,7 +17225,7 @@
                 "species": "SPECIES_SLOWBRO"
               }
             ],
-            "encounter_rate": 2
+            "encounter_rate": 100
           },
           "fishing_mons": {
             "mons": [
@@ -17280,7 +17280,7 @@
                 "species": "SPECIES_SLOWPOKE"
               }
             ],
-            "encounter_rate": 20
+            "encounter_rate": 100
           }
         },
         {
@@ -17349,7 +17349,7 @@
                 "species": "SPECIES_DEWGONG"
               }
             ],
-            "encounter_rate": 7
+            "encounter_rate": 100
           },
           "water_mons": {
             "mons": [
@@ -17379,7 +17379,7 @@
                 "species": "SPECIES_MARILL"
               }
             ],
-            "encounter_rate": 2
+            "encounter_rate": 100
           },
           "fishing_mons": {
             "mons": [
@@ -17434,7 +17434,7 @@
                 "species": "SPECIES_SLOWPOKE"
               }
             ],
-            "encounter_rate": 20
+            "encounter_rate": 100
           }
         },
         {
@@ -17503,7 +17503,7 @@
                 "species": "SPECIES_SWINUB"
               }
             ],
-            "encounter_rate": 7
+            "encounter_rate": 100
           }
         },
         {
@@ -17572,7 +17572,7 @@
                 "species": "SPECIES_SWINUB"
               }
             ],
-            "encounter_rate": 7
+            "encounter_rate": 100
           }
         },
         {
@@ -17641,7 +17641,7 @@
                 "species": "SPECIES_DEWGONG"
               }
             ],
-            "encounter_rate": 7
+            "encounter_rate": 100
           },
           "water_mons": {
             "mons": [
@@ -17671,7 +17671,7 @@
                 "species": "SPECIES_LAPRAS"
               }
             ],
-            "encounter_rate": 2
+            "encounter_rate": 100
           },
           "fishing_mons": {
             "mons": [
@@ -17726,7 +17726,7 @@
                 "species": "SPECIES_SLOWPOKE"
               }
             ],
-            "encounter_rate": 20
+            "encounter_rate": 100
           }
         },
         {
@@ -17795,7 +17795,7 @@
                 "species": "SPECIES_HERACROSS"
               }
             ],
-            "encounter_rate": 21
+            "encounter_rate": 100
           }
         },
         {
@@ -17864,7 +17864,7 @@
                 "species": "SPECIES_MISDREAVUS"
               }
             ],
-            "encounter_rate": 1
+            "encounter_rate": 100
           }
         },
         {
@@ -17933,7 +17933,7 @@
                 "species": "SPECIES_MISDREAVUS"
               }
             ],
-            "encounter_rate": 2
+            "encounter_rate": 100
           }
         },
         {
@@ -18002,7 +18002,7 @@
                 "species": "SPECIES_MISDREAVUS"
               }
             ],
-            "encounter_rate": 3
+            "encounter_rate": 100
           }
         },
         {
@@ -18071,7 +18071,7 @@
                 "species": "SPECIES_MISDREAVUS"
               }
             ],
-            "encounter_rate": 4
+            "encounter_rate": 100
           }
         },
         {
@@ -18140,7 +18140,7 @@
                 "species": "SPECIES_MISDREAVUS"
               }
             ],
-            "encounter_rate": 5
+            "encounter_rate": 100
           }
         },
         {
@@ -18209,7 +18209,7 @@
                 "species": "SPECIES_MISDREAVUS"
               }
             ],
-            "encounter_rate": 6
+            "encounter_rate": 100
           }
         },
         {
@@ -18278,7 +18278,7 @@
                 "species": "SPECIES_MISDREAVUS"
               }
             ],
-            "encounter_rate": 7
+            "encounter_rate": 100
           }
         },
         {
@@ -18347,7 +18347,7 @@
                 "species": "SPECIES_MISDREAVUS"
               }
             ],
-            "encounter_rate": 8
+            "encounter_rate": 100
           }
         },
         {
@@ -18416,7 +18416,7 @@
                 "species": "SPECIES_MISDREAVUS"
               }
             ],
-            "encounter_rate": 9
+            "encounter_rate": 100
           }
         },
         {
@@ -18485,7 +18485,7 @@
                 "species": "SPECIES_MISDREAVUS"
               }
             ],
-            "encounter_rate": 10
+            "encounter_rate": 100
           }
         },
         {
@@ -18554,7 +18554,7 @@
                 "species": "SPECIES_MISDREAVUS"
               }
             ],
-            "encounter_rate": 5
+            "encounter_rate": 100
           }
         },
         {
@@ -18623,7 +18623,7 @@
                 "species": "SPECIES_MISDREAVUS"
               }
             ],
-            "encounter_rate": 5
+            "encounter_rate": 100
           }
         },
         {
@@ -18692,7 +18692,7 @@
                 "species": "SPECIES_MISDREAVUS"
               }
             ],
-            "encounter_rate": 5
+            "encounter_rate": 100
           }
         },
         {
@@ -18761,7 +18761,7 @@
                 "species": "SPECIES_MISDREAVUS"
               }
             ],
-            "encounter_rate": 5
+            "encounter_rate": 100
           }
         },
         {
@@ -18830,7 +18830,7 @@
                 "species": "SPECIES_PERSIAN"
               }
             ],
-            "encounter_rate": 21
+            "encounter_rate": 100
           },
           "water_mons": {
             "mons": [
@@ -18860,7 +18860,7 @@
                 "species": "SPECIES_TENTACRUEL"
               }
             ],
-            "encounter_rate": 2
+            "encounter_rate": 100
           },
           "rock_smash_mons": {
             "mons": [
@@ -18890,7 +18890,7 @@
                 "species": "SPECIES_GRAVELER"
               }
             ],
-            "encounter_rate": 25
+            "encounter_rate": 100
           },
           "fishing_mons": {
             "mons": [
@@ -18945,7 +18945,7 @@
                 "species": "SPECIES_SLOWPOKE"
               }
             ],
-            "encounter_rate": 20
+            "encounter_rate": 100
           }
         },
         {
@@ -19014,7 +19014,7 @@
                 "species": "SPECIES_PERSIAN"
               }
             ],
-            "encounter_rate": 21
+            "encounter_rate": 100
           },
           "water_mons": {
             "mons": [
@@ -19044,7 +19044,7 @@
                 "species": "SPECIES_TENTACRUEL"
               }
             ],
-            "encounter_rate": 2
+            "encounter_rate": 100
           },
           "fishing_mons": {
             "mons": [
@@ -19099,7 +19099,7 @@
                 "species": "SPECIES_SLOWPOKE"
               }
             ],
-            "encounter_rate": 20
+            "encounter_rate": 100
           }
         },
         {
@@ -19168,7 +19168,7 @@
                 "species": "SPECIES_PERSIAN"
               }
             ],
-            "encounter_rate": 21
+            "encounter_rate": 100
           },
           "water_mons": {
             "mons": [
@@ -19198,7 +19198,7 @@
                 "species": "SPECIES_SLOWBRO"
               }
             ],
-            "encounter_rate": 2
+            "encounter_rate": 100
           },
           "fishing_mons": {
             "mons": [
@@ -19253,7 +19253,7 @@
                 "species": "SPECIES_SLOWPOKE"
               }
             ],
-            "encounter_rate": 20
+            "encounter_rate": 100
           }
         },
         {
@@ -19322,7 +19322,7 @@
                 "species": "SPECIES_PERSIAN"
               }
             ],
-            "encounter_rate": 21
+            "encounter_rate": 100
           },
           "water_mons": {
             "mons": [
@@ -19352,7 +19352,7 @@
                 "species": "SPECIES_TENTACRUEL"
               }
             ],
-            "encounter_rate": 2
+            "encounter_rate": 100
           },
           "fishing_mons": {
             "mons": [
@@ -19407,7 +19407,7 @@
                 "species": "SPECIES_SLOWPOKE"
               }
             ],
-            "encounter_rate": 20
+            "encounter_rate": 100
           }
         },
         {
@@ -19476,7 +19476,7 @@
                 "species": "SPECIES_DUNSPARCE"
               }
             ],
-            "encounter_rate": 1
+            "encounter_rate": 100
           }
         },
         {
@@ -19510,7 +19510,7 @@
                 "species": "SPECIES_TENTACRUEL"
               }
             ],
-            "encounter_rate": 2
+            "encounter_rate": 100
           },
           "fishing_mons": {
             "mons": [
@@ -19565,7 +19565,7 @@
                 "species": "SPECIES_SLOWPOKE"
               }
             ],
-            "encounter_rate": 20
+            "encounter_rate": 100
           }
         },
         {
@@ -19599,7 +19599,7 @@
                 "species": "SPECIES_TENTACRUEL"
               }
             ],
-            "encounter_rate": 2
+            "encounter_rate": 100
           },
           "fishing_mons": {
             "mons": [
@@ -19654,7 +19654,7 @@
                 "species": "SPECIES_SLOWPOKE"
               }
             ],
-            "encounter_rate": 20
+            "encounter_rate": 100
           }
         },
         {
@@ -19723,7 +19723,7 @@
                 "species": "SPECIES_PERSIAN"
               }
             ],
-            "encounter_rate": 21
+            "encounter_rate": 100
           },
           "water_mons": {
             "mons": [
@@ -19753,7 +19753,7 @@
                 "species": "SPECIES_TENTACRUEL"
               }
             ],
-            "encounter_rate": 2
+            "encounter_rate": 100
           },
           "fishing_mons": {
             "mons": [
@@ -19808,7 +19808,7 @@
                 "species": "SPECIES_SLOWPOKE"
               }
             ],
-            "encounter_rate": 20
+            "encounter_rate": 100
           }
         },
         {
@@ -19877,7 +19877,7 @@
                 "species": "SPECIES_HOPPIP"
               }
             ],
-            "encounter_rate": 21
+            "encounter_rate": 100
           },
           "water_mons": {
             "mons": [
@@ -19907,7 +19907,7 @@
                 "species": "SPECIES_TENTACRUEL"
               }
             ],
-            "encounter_rate": 2
+            "encounter_rate": 100
           },
           "fishing_mons": {
             "mons": [
@@ -19962,7 +19962,7 @@
                 "species": "SPECIES_SLOWPOKE"
               }
             ],
-            "encounter_rate": 20
+            "encounter_rate": 100
           }
         },
         {
@@ -19996,7 +19996,7 @@
                 "species": "SPECIES_TENTACRUEL"
               }
             ],
-            "encounter_rate": 2
+            "encounter_rate": 100
           },
           "fishing_mons": {
             "mons": [
@@ -20051,7 +20051,7 @@
                 "species": "SPECIES_SLOWPOKE"
               }
             ],
-            "encounter_rate": 20
+            "encounter_rate": 100
           }
         },
         {
@@ -20085,7 +20085,7 @@
                 "species": "SPECIES_TENTACRUEL"
               }
             ],
-            "encounter_rate": 2
+            "encounter_rate": 100
           },
           "fishing_mons": {
             "mons": [
@@ -20140,7 +20140,7 @@
                 "species": "SPECIES_SLOWPOKE"
               }
             ],
-            "encounter_rate": 20
+            "encounter_rate": 100
           }
         },
         {
@@ -20209,7 +20209,7 @@
                 "species": "SPECIES_PERSIAN"
               }
             ],
-            "encounter_rate": 21
+            "encounter_rate": 100
           },
           "water_mons": {
             "mons": [
@@ -20239,7 +20239,7 @@
                 "species": "SPECIES_TENTACRUEL"
               }
             ],
-            "encounter_rate": 2
+            "encounter_rate": 100
           },
           "fishing_mons": {
             "mons": [
@@ -20294,7 +20294,7 @@
                 "species": "SPECIES_SLOWPOKE"
               }
             ],
-            "encounter_rate": 20
+            "encounter_rate": 100
           }
         },
         {
@@ -20363,7 +20363,7 @@
                 "species": "SPECIES_PERSIAN"
               }
             ],
-            "encounter_rate": 21
+            "encounter_rate": 100
           },
           "water_mons": {
             "mons": [
@@ -20393,7 +20393,7 @@
                 "species": "SPECIES_MARILL"
               }
             ],
-            "encounter_rate": 2
+            "encounter_rate": 100
           },
           "fishing_mons": {
             "mons": [
@@ -20448,7 +20448,7 @@
                 "species": "SPECIES_SLOWPOKE"
               }
             ],
-            "encounter_rate": 20
+            "encounter_rate": 100
           }
         },
         {
@@ -20482,7 +20482,7 @@
                 "species": "SPECIES_TENTACRUEL"
               }
             ],
-            "encounter_rate": 2
+            "encounter_rate": 100
           },
           "fishing_mons": {
             "mons": [
@@ -20537,7 +20537,7 @@
                 "species": "SPECIES_SLOWPOKE"
               }
             ],
-            "encounter_rate": 20
+            "encounter_rate": 100
           }
         },
         {
@@ -20606,7 +20606,7 @@
                 "species": "SPECIES_PERSIAN"
               }
             ],
-            "encounter_rate": 21
+            "encounter_rate": 100
           }
         },
         {
@@ -20675,7 +20675,7 @@
                 "species": "SPECIES_PERSIAN"
               }
             ],
-            "encounter_rate": 21
+            "encounter_rate": 100
           },
           "rock_smash_mons": {
             "mons": [
@@ -20705,7 +20705,7 @@
                 "species": "SPECIES_GEODUDE"
               }
             ],
-            "encounter_rate": 25
+            "encounter_rate": 100
           }
         },
         {
@@ -20739,7 +20739,7 @@
                 "species": "SPECIES_TENTACRUEL"
               }
             ],
-            "encounter_rate": 2
+            "encounter_rate": 100
           },
           "fishing_mons": {
             "mons": [
@@ -20794,7 +20794,7 @@
                 "species": "SPECIES_SLOWPOKE"
               }
             ],
-            "encounter_rate": 20
+            "encounter_rate": 100
           }
         },
         {
@@ -20863,7 +20863,7 @@
                 "species": "SPECIES_RATTATA"
               }
             ],
-            "encounter_rate": 21
+            "encounter_rate": 100
           }
         },
         {
@@ -20932,7 +20932,7 @@
                 "species": "SPECIES_WEEDLE"
               }
             ],
-            "encounter_rate": 21
+            "encounter_rate": 100
           }
         },
         {
@@ -21001,7 +21001,7 @@
                 "species": "SPECIES_JIGGLYPUFF"
               }
             ],
-            "encounter_rate": 21
+            "encounter_rate": 100
           }
         },
         {
@@ -21070,7 +21070,7 @@
                 "species": "SPECIES_SANDSHREW"
               }
             ],
-            "encounter_rate": 21
+            "encounter_rate": 100
           },
           "water_mons": {
             "mons": [
@@ -21100,7 +21100,7 @@
                 "species": "SPECIES_TENTACOOL"
               }
             ],
-            "encounter_rate": 2
+            "encounter_rate": 100
           },
           "fishing_mons": {
             "mons": [
@@ -21155,7 +21155,7 @@
                 "species": "SPECIES_SLOWPOKE"
               }
             ],
-            "encounter_rate": 20
+            "encounter_rate": 100
           }
         },
         {
@@ -21224,7 +21224,7 @@
                 "species": "SPECIES_MEOWTH"
               }
             ],
-            "encounter_rate": 21
+            "encounter_rate": 100
           }
         },
         {
@@ -21293,7 +21293,7 @@
                 "species": "SPECIES_MEOWTH"
               }
             ],
-            "encounter_rate": 21
+            "encounter_rate": 100
           },
           "water_mons": {
             "mons": [
@@ -21323,7 +21323,7 @@
                 "species": "SPECIES_SLOWPOKE"
               }
             ],
-            "encounter_rate": 2
+            "encounter_rate": 100
           },
           "fishing_mons": {
             "mons": [
@@ -21378,7 +21378,7 @@
                 "species": "SPECIES_SLOWPOKE"
               }
             ],
-            "encounter_rate": 20
+            "encounter_rate": 100
           }
         },
         {
@@ -21447,7 +21447,7 @@
                 "species": "SPECIES_MEOWTH"
               }
             ],
-            "encounter_rate": 21
+            "encounter_rate": 100
           }
         },
         {
@@ -21516,7 +21516,7 @@
                 "species": "SPECIES_VULPIX"
               }
             ],
-            "encounter_rate": 21
+            "encounter_rate": 100
           }
         },
         {
@@ -21585,7 +21585,7 @@
                 "species": "SPECIES_SANDSHREW"
               }
             ],
-            "encounter_rate": 21
+            "encounter_rate": 100
           }
         },
         {
@@ -21654,7 +21654,7 @@
                 "species": "SPECIES_SANDSHREW"
               }
             ],
-            "encounter_rate": 21
+            "encounter_rate": 100
           },
           "water_mons": {
             "mons": [
@@ -21684,7 +21684,7 @@
                 "species": "SPECIES_TENTACOOL"
               }
             ],
-            "encounter_rate": 2
+            "encounter_rate": 100
           },
           "fishing_mons": {
             "mons": [
@@ -21739,7 +21739,7 @@
                 "species": "SPECIES_SLOWPOKE"
               }
             ],
-            "encounter_rate": 20
+            "encounter_rate": 100
           }
         },
         {
@@ -21808,7 +21808,7 @@
                 "species": "SPECIES_DROWZEE"
               }
             ],
-            "encounter_rate": 21
+            "encounter_rate": 100
           },
           "water_mons": {
             "mons": [
@@ -21838,7 +21838,7 @@
                 "species": "SPECIES_TENTACOOL"
               }
             ],
-            "encounter_rate": 2
+            "encounter_rate": 100
           },
           "fishing_mons": {
             "mons": [
@@ -21893,7 +21893,7 @@
                 "species": "SPECIES_SLOWPOKE"
               }
             ],
-            "encounter_rate": 20
+            "encounter_rate": 100
           }
         },
         {
@@ -21962,7 +21962,7 @@
                 "species": "SPECIES_WEEPINBELL"
               }
             ],
-            "encounter_rate": 21
+            "encounter_rate": 100
           },
           "water_mons": {
             "mons": [
@@ -21992,7 +21992,7 @@
                 "species": "SPECIES_TENTACOOL"
               }
             ],
-            "encounter_rate": 2
+            "encounter_rate": 100
           },
           "fishing_mons": {
             "mons": [
@@ -22047,7 +22047,7 @@
                 "species": "SPECIES_SLOWPOKE"
               }
             ],
-            "encounter_rate": 60
+            "encounter_rate": 100
           }
         },
         {
@@ -22116,7 +22116,7 @@
                 "species": "SPECIES_WEEPINBELL"
               }
             ],
-            "encounter_rate": 21
+            "encounter_rate": 100
           },
           "water_mons": {
             "mons": [
@@ -22146,7 +22146,7 @@
                 "species": "SPECIES_TENTACOOL"
               }
             ],
-            "encounter_rate": 2
+            "encounter_rate": 100
           },
           "fishing_mons": {
             "mons": [
@@ -22201,7 +22201,7 @@
                 "species": "SPECIES_SLOWPOKE"
               }
             ],
-            "encounter_rate": 20
+            "encounter_rate": 100
           }
         },
         {
@@ -22270,7 +22270,7 @@
                 "species": "SPECIES_PIDGEOTTO"
               }
             ],
-            "encounter_rate": 21
+            "encounter_rate": 100
           }
         },
         {
@@ -22339,7 +22339,7 @@
                 "species": "SPECIES_WEEPINBELL"
               }
             ],
-            "encounter_rate": 21
+            "encounter_rate": 100
           }
         },
         {
@@ -22408,7 +22408,7 @@
                 "species": "SPECIES_RATICATE"
               }
             ],
-            "encounter_rate": 21
+            "encounter_rate": 100
           }
         },
         {
@@ -22477,7 +22477,7 @@
                 "species": "SPECIES_FEAROW"
               }
             ],
-            "encounter_rate": 21
+            "encounter_rate": 100
           }
         },
         {
@@ -22546,7 +22546,7 @@
                 "species": "SPECIES_FEAROW"
               }
             ],
-            "encounter_rate": 21
+            "encounter_rate": 100
           }
         },
         {
@@ -22580,7 +22580,7 @@
                 "species": "SPECIES_TENTACOOL"
               }
             ],
-            "encounter_rate": 2
+            "encounter_rate": 100
           },
           "fishing_mons": {
             "mons": [
@@ -22635,7 +22635,7 @@
                 "species": "SPECIES_SLOWPOKE"
               }
             ],
-            "encounter_rate": 20
+            "encounter_rate": 100
           }
         },
         {
@@ -22669,7 +22669,7 @@
                 "species": "SPECIES_TENTACOOL"
               }
             ],
-            "encounter_rate": 2
+            "encounter_rate": 100
           },
           "fishing_mons": {
             "mons": [
@@ -22724,7 +22724,7 @@
                 "species": "SPECIES_SLOWPOKE"
               }
             ],
-            "encounter_rate": 20
+            "encounter_rate": 100
           }
         },
         {
@@ -22793,7 +22793,7 @@
                 "species": "SPECIES_TANGELA"
               }
             ],
-            "encounter_rate": 14
+            "encounter_rate": 100
           },
           "water_mons": {
             "mons": [
@@ -22823,7 +22823,7 @@
                 "species": "SPECIES_TENTACOOL"
               }
             ],
-            "encounter_rate": 2
+            "encounter_rate": 100
           },
           "fishing_mons": {
             "mons": [
@@ -22878,7 +22878,7 @@
                 "species": "SPECIES_SLOWPOKE"
               }
             ],
-            "encounter_rate": 20
+            "encounter_rate": 100
           }
         },
         {
@@ -22947,7 +22947,7 @@
                 "species": "SPECIES_TANGELA"
               }
             ],
-            "encounter_rate": 14
+            "encounter_rate": 100
           },
           "water_mons": {
             "mons": [
@@ -22977,7 +22977,7 @@
                 "species": "SPECIES_TENTACOOL"
               }
             ],
-            "encounter_rate": 2
+            "encounter_rate": 100
           },
           "fishing_mons": {
             "mons": [
@@ -23032,7 +23032,7 @@
                 "species": "SPECIES_SLOWPOKE"
               }
             ],
-            "encounter_rate": 20
+            "encounter_rate": 100
           }
         },
         {
@@ -23101,7 +23101,7 @@
                 "species": "SPECIES_MANKEY"
               }
             ],
-            "encounter_rate": 21
+            "encounter_rate": 100
           },
           "water_mons": {
             "mons": [
@@ -23131,7 +23131,7 @@
                 "species": "SPECIES_SLOWPOKE"
               }
             ],
-            "encounter_rate": 2
+            "encounter_rate": 100
           },
           "fishing_mons": {
             "mons": [
@@ -23186,7 +23186,7 @@
                 "species": "SPECIES_SLOWPOKE"
               }
             ],
-            "encounter_rate": 20
+            "encounter_rate": 100
           }
         },
         {
@@ -23255,7 +23255,7 @@
                 "species": "SPECIES_FEAROW"
               }
             ],
-            "encounter_rate": 21
+            "encounter_rate": 100
           },
           "water_mons": {
             "mons": [
@@ -23285,7 +23285,7 @@
                 "species": "SPECIES_SLOWPOKE"
               }
             ],
-            "encounter_rate": 2
+            "encounter_rate": 100
           },
           "fishing_mons": {
             "mons": [
@@ -23340,7 +23340,7 @@
                 "species": "SPECIES_SLOWPOKE"
               }
             ],
-            "encounter_rate": 20
+            "encounter_rate": 100
           }
         },
         {
@@ -23409,7 +23409,7 @@
                 "species": "SPECIES_ABRA"
               }
             ],
-            "encounter_rate": 21
+            "encounter_rate": 100
           },
           "water_mons": {
             "mons": [
@@ -23439,7 +23439,7 @@
                 "species": "SPECIES_TENTACOOL"
               }
             ],
-            "encounter_rate": 2
+            "encounter_rate": 100
           },
           "fishing_mons": {
             "mons": [
@@ -23494,7 +23494,7 @@
                 "species": "SPECIES_SLOWPOKE"
               }
             ],
-            "encounter_rate": 20
+            "encounter_rate": 100
           }
         },
         {
@@ -23563,7 +23563,7 @@
                 "species": "SPECIES_ABRA"
               }
             ],
-            "encounter_rate": 21
+            "encounter_rate": 100
           },
           "water_mons": {
             "mons": [
@@ -23593,7 +23593,7 @@
                 "species": "SPECIES_SLOWPOKE"
               }
             ],
-            "encounter_rate": 2
+            "encounter_rate": 100
           },
           "fishing_mons": {
             "mons": [
@@ -23648,7 +23648,7 @@
                 "species": "SPECIES_SLOWPOKE"
               }
             ],
-            "encounter_rate": 20
+            "encounter_rate": 100
           }
         },
         {
@@ -23682,7 +23682,7 @@
                 "species": "SPECIES_TENTACOOL"
               }
             ],
-            "encounter_rate": 1
+            "encounter_rate": 100
           },
           "fishing_mons": {
             "mons": [
@@ -23737,7 +23737,7 @@
                 "species": "SPECIES_SLOWPOKE"
               }
             ],
-            "encounter_rate": 10
+            "encounter_rate": 100
           }
         },
         {
@@ -23771,7 +23771,7 @@
                 "species": "SPECIES_SLOWPOKE"
               }
             ],
-            "encounter_rate": 1
+            "encounter_rate": 100
           },
           "fishing_mons": {
             "mons": [
@@ -23826,7 +23826,7 @@
                 "species": "SPECIES_SLOWPOKE"
               }
             ],
-            "encounter_rate": 10
+            "encounter_rate": 100
           }
         },
         {
@@ -23860,7 +23860,7 @@
                 "species": "SPECIES_TENTACOOL"
               }
             ],
-            "encounter_rate": 1
+            "encounter_rate": 100
           },
           "fishing_mons": {
             "mons": [
@@ -23915,7 +23915,7 @@
                 "species": "SPECIES_SLOWPOKE"
               }
             ],
-            "encounter_rate": 10
+            "encounter_rate": 100
           }
         },
         {
@@ -23949,7 +23949,7 @@
                 "species": "SPECIES_TENTACOOL"
               }
             ],
-            "encounter_rate": 1
+            "encounter_rate": 100
           },
           "fishing_mons": {
             "mons": [
@@ -24004,7 +24004,7 @@
                 "species": "SPECIES_SLOWPOKE"
               }
             ],
-            "encounter_rate": 10
+            "encounter_rate": 100
           }
         },
         {
@@ -24038,7 +24038,7 @@
                 "species": "SPECIES_KOFFING"
               }
             ],
-            "encounter_rate": 1
+            "encounter_rate": 100
           },
           "fishing_mons": {
             "mons": [
@@ -24093,7 +24093,7 @@
                 "species": "SPECIES_GRIMER"
               }
             ],
-            "encounter_rate": 10
+            "encounter_rate": 100
           }
         },
         {
@@ -24127,7 +24127,7 @@
                 "species": "SPECIES_SLOWPOKE"
               }
             ],
-            "encounter_rate": 1
+            "encounter_rate": 100
           },
           "fishing_mons": {
             "mons": [
@@ -24182,7 +24182,7 @@
                 "species": "SPECIES_SLOWPOKE"
               }
             ],
-            "encounter_rate": 10
+            "encounter_rate": 100
           }
         },
         {
@@ -24216,7 +24216,7 @@
                 "species": "SPECIES_TENTACOOL"
               }
             ],
-            "encounter_rate": 1
+            "encounter_rate": 100
           },
           "fishing_mons": {
             "mons": [
@@ -24271,7 +24271,7 @@
                 "species": "SPECIES_SLOWPOKE"
               }
             ],
-            "encounter_rate": 10
+            "encounter_rate": 100
           }
         },
         {
@@ -24305,7 +24305,7 @@
                 "species": "SPECIES_TENTACRUEL"
               }
             ],
-            "encounter_rate": 1
+            "encounter_rate": 100
           },
           "fishing_mons": {
             "mons": [
@@ -24360,7 +24360,7 @@
                 "species": "SPECIES_SLOWPOKE"
               }
             ],
-            "encounter_rate": 10
+            "encounter_rate": 100
           }
         },
         {
@@ -24394,7 +24394,7 @@
                 "species": "SPECIES_MARILL"
               }
             ],
-            "encounter_rate": 2
+            "encounter_rate": 100
           },
           "fishing_mons": {
             "mons": [
@@ -24449,7 +24449,7 @@
                 "species": "SPECIES_SLOWPOKE"
               }
             ],
-            "encounter_rate": 20
+            "encounter_rate": 100
           }
         },
         {
@@ -24483,7 +24483,7 @@
                 "species": "SPECIES_TENTACRUEL"
               }
             ],
-            "encounter_rate": 1
+            "encounter_rate": 100
           },
           "fishing_mons": {
             "mons": [
@@ -24538,7 +24538,7 @@
                 "species": "SPECIES_SLOWPOKE"
               }
             ],
-            "encounter_rate": 10
+            "encounter_rate": 100
           }
         },
         {
@@ -24607,7 +24607,7 @@
                 "species": "SPECIES_ZUBAT"
               }
             ],
-            "encounter_rate": 7
+            "encounter_rate": 100
           }
         },
         {
@@ -24676,7 +24676,7 @@
                 "species": "SPECIES_MAREEP"
               }
             ],
-            "encounter_rate": 7
+            "encounter_rate": 100
           }
         },
         {
@@ -24745,7 +24745,7 @@
                 "species": "SPECIES_PINECO"
               }
             ],
-            "encounter_rate": 7
+            "encounter_rate": 100
           }
         },
         {
@@ -24814,7 +24814,7 @@
                 "species": "SPECIES_HOUNDOUR"
               }
             ],
-            "encounter_rate": 7
+            "encounter_rate": 100
           }
         },
         {
@@ -24883,7 +24883,7 @@
                 "species": "SPECIES_TEDDIURSA"
               }
             ],
-            "encounter_rate": 7
+            "encounter_rate": 100
           }
         },
         {
@@ -24952,7 +24952,7 @@
                 "species": "SPECIES_AIPOM"
               }
             ],
-            "encounter_rate": 7
+            "encounter_rate": 100
           }
         },
         {
@@ -25021,7 +25021,7 @@
                 "species": "SPECIES_SHUCKLE"
               }
             ],
-            "encounter_rate": 7
+            "encounter_rate": 100
           }
         },
         {
@@ -25090,7 +25090,7 @@
                 "species": "SPECIES_STANTLER"
               }
             ],
-            "encounter_rate": 7
+            "encounter_rate": 100
           }
         },
         {
@@ -25159,7 +25159,7 @@
                 "species": "SPECIES_SMEARGLE"
               }
             ],
-            "encounter_rate": 7
+            "encounter_rate": 100
           }
         }
       ]

@@ -243,17 +243,17 @@ static u8 GetBikeCollisionAt(struct ObjectEvent *playerObjEvent, s16 x, s16 y, u
 bool8 RS_IsRunningDisallowed(u8 r0)
 {
     if (MetatileBehaviorForbidsBiking(r0))
-        return TRUE;
+        return FALSE;
     if (gMapHeader.mapType != MAP_TYPE_INDOOR)
         return FALSE;
     else
-        return TRUE;
+        return FALSE;
 }
 
 bool32 IsRunningDisallowed(u8 metatileBehavior)
 {
     if (!gMapHeader.allowRunning)
-        return TRUE;
+        return FALSE;
     if (MetatileBehaviorForbidsBiking(metatileBehavior) != TRUE)
         return FALSE;
     else
