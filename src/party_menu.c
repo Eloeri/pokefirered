@@ -6347,7 +6347,7 @@ void CursorCB_MoveItemCallback(u8 taskId)
     u16 item1, item2;
     u8 buffer[100];
 
-    if (gPaletteFade.active || MenuHelpers_IsLinkActive())
+    if (gPaletteFade.active || MenuHelpers_ShouldWaitForLinkRecv())
         return;
 
     switch (PartyMenuButtonHandler(&gPartyMenu.slotId2))
@@ -6359,6 +6359,12 @@ void CursorCB_MoveItemCallback(u8 taskId)
         // Pokemon can't give away items to eggs or themselves
         if (GetMonData(&gPlayerParty[gPartyMenu.slotId2], MON_DATA_IS_EGG)
             || gPartyMenu.slotId == gPartyMenu.slotId2)
+        {
+            PlaySE(SE_FAILURE);
+            return;
+        }
+
+        if(GetMonData(&gPlayerParty[gPartyMenu.slotId2], MON_DATA_HELD_ITEM) >= ITEM_ORANGE_MAIL && GetMonData(&gPlayerParty[gPartyMenu.slotId2], MON_DATA_HELD_ITEM) <= ITEM_RETRO_MAIL)
         {
             PlaySE(SE_FAILURE);
             return;
@@ -6408,9 +6414,10 @@ void CursorCB_MoveItemCallback(u8 taskId)
         // display the string
         DisplayPartyMenuMessage(gStringVar4, TRUE);
 
-        // update colors of selected boxes
-        AnimatePartySlot(gPartyMenu.slotId2, 0);
-        AnimatePartySlot(gPartyMenu.slotId, 1);
+        // update colors of selected boxes, move selection cursor to second mon
+        AnimatePartySlot(gPartyMenu.slotId, 0);
+        gPartyMenu.slotId = gPartyMenu.slotId2;
+        AnimatePartySlot(gPartyMenu.slotId2, 1);
 
         // return to the main party menu
         ScheduleBgCopyTilemapToVram(2);
