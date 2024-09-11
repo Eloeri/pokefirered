@@ -36,7 +36,6 @@ EventScript_PkmnCenterNurse_ReturnPkmn::
 	waitmessage
 	applymovement VAR_LAST_TALKED, Movement_Bow
 	waitmovement 0
-	msgbox Text_WeHopeToSeeYouAgain
 	return
 
 EventScript_PkmnCenterNurse_PlayerWaitingInUnionRoom::

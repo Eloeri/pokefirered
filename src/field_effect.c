@@ -906,7 +906,7 @@ static void PokeballGlowEffect_PlaceBalls(struct Sprite *sprite)
     u8 spriteId;
     if (sprite->sTimer == 0 || (--sprite->sTimer) == 0)
     {
-        sprite->sTimer = 25;
+        sprite->sTimer = 5;
         spriteId = CreateSpriteAtEnd(&sSpriteTemplate_PokeballGlow, sPokeballCoordOffsets[sprite->sCounter].x + sprite->x2, sPokeballCoordOffsets[sprite->sCounter].y + sprite->y2, 0xFF);
         gSprites[spriteId].oam.priority = 2;
         gSprites[spriteId].sGlowEffectSpriteId = sprite->sSpriteId;
@@ -916,7 +916,7 @@ static void PokeballGlowEffect_PlaceBalls(struct Sprite *sprite)
     }
     if (sprite->sNumMons == 0)
     {
-        sprite->sTimer = 32;
+        sprite->sTimer = 5;
         sprite->sState++;
     }
 }
