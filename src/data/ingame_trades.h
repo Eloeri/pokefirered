@@ -133,7 +133,7 @@ static const struct InGameTrade sInGameTrades[] = {
     }, 
     [INGAME_TRADE_ELECTRODE] = 
     {
-        .nickname = _("ESPHERE"),
+        .nickname = _("Esphere"),
         .species = SPECIES_ELECTRODE,
         .ivs = {19, 16, 18, 25, 25, 19},
         .abilityNum = 1,
@@ -142,14 +142,14 @@ static const struct InGameTrade sInGameTrades[] = {
         .personality = 0x06341016,
         .heldItem = ITEM_NONE,
         .mailNum = 255,
-        .otName = _("CLIFTON"),
+        .otName = _("Clifton"),
         .otGender = MALE,
         .sheen = 10,
         .requestedSpecies = SPECIES_RAICHU
     }, 
     [INGAME_TRADE_TANGELA] = 
     {
-        .nickname = _("TANGENY"),
+        .nickname = _("Tangeny"),
         .species = SPECIES_TANGELA,
         .ivs = {22, 17, 25, 16, 23, 20},
         .abilityNum = 0,
@@ -158,14 +158,14 @@ static const struct InGameTrade sInGameTrades[] = {
         .personality = 0x5c77ecfa,
         .heldItem = ITEM_STARDUST,
         .mailNum = 255,
-        .otName = _("NORMA"),
+        .otName = _("Norma"),
         .otGender = FEMALE,
         .sheen = 10,
         .requestedSpecies = SPECIES_VENONAT
     },
     [INGAME_TRADE_SEEL] = 
     {
-        .nickname = _("SEELOR"),
+        .nickname = _("Seelor"),
         .species = SPECIES_SEEL,
         .ivs = {24, 15, 22, 16, 23, 22},
         .abilityNum = 0,
@@ -174,7 +174,7 @@ static const struct InGameTrade sInGameTrades[] = {
         .personality = 0x482cac89,
         .heldItem = ITEM_NONE,
         .mailNum = 255,
-        .otName = _("GARETT"),
+        .otName = _("Garett"),
         .otGender = MALE,
         .sheen = 10,
         .requestedSpecies = SPECIES_PONYTA
