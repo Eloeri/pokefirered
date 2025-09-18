@@ -239,7 +239,7 @@ static void Task_SetWin0BldRegsAndCheckSaveFile(u8 taskId)
             }
             else
             {
-                gTasks[taskId].tMenuType = MAIN_MENU_CONTINUE;
+                gTasks[taskId].tMenuType = MAIN_MENU_MYSTERYGIFT;
             }
             gTasks[taskId].func = Task_SetWin0BldRegsNoSaveFileCheck;
             break;
