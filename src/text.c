@@ -39,6 +39,12 @@ static const u8 sWindowVerticalScrollSpeeds[] = {
     [OPTIONS_TEXT_SPEED_FAST] = 4,
 };
 
+static const u8 sTextSpeedFrameDelays[] =
+{
+    [OPTIONS_TEXT_SPEED_SLOW] = 8,
+    [OPTIONS_TEXT_SPEED_MID]  = 4,
+    [OPTIONS_TEXT_SPEED_FAST] = 1
+};
 static const struct GlyphWidthFunc sGlyphWidthFuncs[] = {
     { FONT_SMALL,         GetGlyphWidth_Small },
     { FONT_NORMAL_COPY_1, GetGlyphWidth_NormalCopy1 },
@@ -626,12 +632,21 @@ void DrawDownArrow(u8 windowId, u16 x, u16 y, u8 bgColor, bool8 drawArrow, u8 *c
     }
 }
 
+u8 SpeedUpText(void)
+{
+    u32 speed;
+    if (gSaveBlock2Ptr->optionsTextSpeed > OPTIONS_TEXT_SPEED_FAST)
+        gSaveBlock2Ptr->optionsTextSpeed = OPTIONS_TEXT_SPEED_MID;
+    return sTextSpeedFrameDelays[gSaveBlock2Ptr->optionsTextSpeed];
+}
+
 u16 RenderText(struct TextPrinter *textPrinter)
 {
     struct TextPrinterSubStruct *subStruct = &textPrinter->subUnion.sub;
     u16 currChar;
     s32 width;
     s32 widthHelper;
+    u8 repeats;
 
     switch (textPrinter->state)
     {
@@ -655,6 +670,19 @@ u16 RenderText(struct TextPrinter *textPrinter)
         else
             textPrinter->delayCounter = textPrinter->textSpeed;
 
+                switch (SpeedUpText())
+        {
+			case OPTIONS_TEXT_SPEED_SLOW:
+				repeats = 1;
+				break;
+			case OPTIONS_TEXT_SPEED_MID:
+				repeats = 2;
+				break;
+			case OPTIONS_TEXT_SPEED_FAST:
+				repeats = 4;
+				break;
+        }
+        do {
         currChar = *textPrinter->printerTemplate.currentChar;
         textPrinter->printerTemplate.currentChar++;
 
@@ -855,6 +883,8 @@ u16 RenderText(struct TextPrinter *textPrinter)
             else
                 textPrinter->printerTemplate.currentX += gGlyphInfo.width;
         }
+        repeats++;
+        } while (repeats > 0);
         return RENDER_PRINT;
     case RENDER_STATE_WAIT:
         if (TextPrinterWait(textPrinter))
