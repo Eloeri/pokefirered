@@ -2721,7 +2721,7 @@ static void BattleIntroQuickRun(void)
 {
     if (gBattleControllerExecFlags == 0)
     {
-        if (JOY_HELD(DPAD_RIGHT)){
+        if (JOY_HELD((DPAD_RIGHT) | (DPAD_LEFT) | (DPAD_UP) | (DPAD_DOWN) | (B_BUTTON) | (A_BUTTON))){
             if (!IsRunningFromBattleImpossible() && TryRunFromBattle(gBattlerAttacker)){
                 gBattleMainFunc = HandleEndTurn_RanFromBattle;
                 return;
